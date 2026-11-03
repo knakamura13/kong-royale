@@ -1,0 +1,1083 @@
+[
+  {
+    "mode": "baseline",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "document": {
+      "scrollWidth": 1280,
+      "scrollHeight": 720,
+      "bodyScrollHeight": 720
+    },
+    "errors": [],
+    "items": [
+      {
+        "text": "PLAY",
+        "rect": {
+          "x": 426.65625,
+          "y": 30.65625,
+          "w": 68.296875,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "0.96px",
+        "wordSpacing": "0px",
+        "client": [
+          64,
+          31
+        ],
+        "scroll": [
+          64,
+          31
+        ]
+      },
+      {
+        "text": "TRAINING",
+        "rect": {
+          "x": 501.609375,
+          "y": 30.65625,
+          "w": 100.828125,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "0.96px",
+        "wordSpacing": "0px",
+        "client": [
+          97,
+          31
+        ],
+        "scroll": [
+          97,
+          31
+        ]
+      },
+      {
+        "text": "SETTINGS",
+        "rect": {
+          "x": 609.09375,
+          "y": 30.65625,
+          "w": 101.5,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "0.96px",
+        "wordSpacing": "0px",
+        "client": [
+          98,
+          31
+        ],
+        "scroll": [
+          98,
+          31
+        ]
+      },
+      {
+        "text": "Trios",
+        "rect": {
+          "x": 56,
+          "y": 397,
+          "w": 82.3125,
+          "h": 39.3125
+        },
+        "font": "14.6667px",
+        "lineHeight": "22px",
+        "letterSpacing": "1.76px",
+        "wordSpacing": "0px",
+        "client": [
+          78,
+          35
+        ],
+        "scroll": [
+          78,
+          35
+        ]
+      },
+      {
+        "text": "Solo",
+        "rect": {
+          "x": 144.96875,
+          "y": 397,
+          "w": 77.921875,
+          "h": 39.3125
+        },
+        "font": "14.6667px",
+        "lineHeight": "22px",
+        "letterSpacing": "1.76px",
+        "wordSpacing": "0px",
+        "client": [
+          74,
+          35
+        ],
+        "scroll": [
+          74,
+          35
+        ]
+      },
+      {
+        "text": "Easy",
+        "rect": {
+          "x": 282.3125,
+          "y": 401.984375,
+          "w": 45.953125,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "14.6667px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          46,
+          29
+        ],
+        "scroll": [
+          46,
+          29
+        ]
+      },
+      {
+        "text": "Standard",
+        "rect": {
+          "x": 330.921875,
+          "y": 401.984375,
+          "w": 70.859375,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "14.6667px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          71,
+          29
+        ],
+        "scroll": [
+          71,
+          29
+        ]
+      },
+      {
+        "text": "Hard",
+        "rect": {
+          "x": 404.4375,
+          "y": 401.984375,
+          "w": 47.953125,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "14.6667px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          48,
+          29
+        ],
+        "scroll": [
+          48,
+          29
+        ]
+      },
+      {
+        "text": "PLAY\nVS BOTS",
+        "rect": {
+          "x": 56,
+          "y": 455.3125,
+          "w": 341.328125,
+          "h": 53.328125
+        },
+        "font": "25.3333px",
+        "lineHeight": "25.3333px",
+        "letterSpacing": "0.76px",
+        "wordSpacing": "0px",
+        "client": [
+          337,
+          49
+        ],
+        "scroll": [
+          337,
+          49
+        ]
+      },
+      {
+        "text": "FIRING RANGE",
+        "rect": {
+          "x": 56,
+          "y": 577.28125,
+          "w": 156.578125,
+          "h": 34.640625
+        },
+        "font": "10.6667px",
+        "lineHeight": "17.3333px",
+        "letterSpacing": "1.92px",
+        "wordSpacing": "0px",
+        "client": [
+          153,
+          31
+        ],
+        "scroll": [
+          153,
+          31
+        ]
+      },
+      {
+        "text": "LEARN CONTROLS",
+        "rect": {
+          "x": 220.578125,
+          "y": 577.28125,
+          "w": 184.75,
+          "h": 34.640625
+        },
+        "font": "10.6667px",
+        "lineHeight": "17.3333px",
+        "letterSpacing": "1.92px",
+        "wordSpacing": "0px",
+        "client": [
+          181,
+          31
+        ],
+        "scroll": [
+          181,
+          31
+        ]
+      },
+      {
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "rect": {
+          "x": 301.53125,
+          "y": 662.6875,
+          "w": 170.6875,
+          "h": 22.65625
+        },
+        "font": "10.6667px",
+        "lineHeight": "16px",
+        "letterSpacing": "1.06667px",
+        "wordSpacing": "0px",
+        "client": [
+          171,
+          23
+        ],
+        "scroll": [
+          171,
+          23
+        ]
+      }
+    ]
+  },
+  {
+    "mode": "spacing",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "document": {
+      "scrollWidth": 1280,
+      "scrollHeight": 720,
+      "bodyScrollHeight": 720
+    },
+    "errors": [],
+    "items": [
+      {
+        "text": "PLAY",
+        "rect": {
+          "x": 426.65625,
+          "y": 30.65625,
+          "w": 70.21875,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "1.44px",
+        "wordSpacing": "1.92px",
+        "client": [
+          66,
+          31
+        ],
+        "scroll": [
+          66,
+          31
+        ]
+      },
+      {
+        "text": "TRAINING",
+        "rect": {
+          "x": 503.53125,
+          "y": 30.65625,
+          "w": 104.671875,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "1.44px",
+        "wordSpacing": "1.92px",
+        "client": [
+          101,
+          31
+        ],
+        "scroll": [
+          101,
+          31
+        ]
+      },
+      {
+        "text": "SETTINGS",
+        "rect": {
+          "x": 614.859375,
+          "y": 30.65625,
+          "w": 105.328125,
+          "h": 35.3125
+        },
+        "font": "12px",
+        "lineHeight": "18px",
+        "letterSpacing": "1.44px",
+        "wordSpacing": "1.92px",
+        "client": [
+          101,
+          31
+        ],
+        "scroll": [
+          101,
+          31
+        ]
+      },
+      {
+        "text": "Trios",
+        "rect": {
+          "x": 56,
+          "y": 513,
+          "w": 82.3125,
+          "h": 39.3125
+        },
+        "font": "14.6667px",
+        "lineHeight": "22px",
+        "letterSpacing": "1.76px",
+        "wordSpacing": "2.34667px",
+        "client": [
+          78,
+          35
+        ],
+        "scroll": [
+          78,
+          35
+        ]
+      },
+      {
+        "text": "Solo",
+        "rect": {
+          "x": 144.96875,
+          "y": 513,
+          "w": 77.921875,
+          "h": 39.3125
+        },
+        "font": "14.6667px",
+        "lineHeight": "22px",
+        "letterSpacing": "1.76px",
+        "wordSpacing": "2.34667px",
+        "client": [
+          74,
+          35
+        ],
+        "scroll": [
+          74,
+          35
+        ]
+      },
+      {
+        "text": "Easy",
+        "rect": {
+          "x": 283.109375,
+          "y": 517.984375,
+          "w": 51.40625,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "17px",
+        "letterSpacing": "1.36px",
+        "wordSpacing": "1.81333px",
+        "client": [
+          51,
+          29
+        ],
+        "scroll": [
+          51,
+          29
+        ]
+      },
+      {
+        "text": "Standard",
+        "rect": {
+          "x": 337.171875,
+          "y": 517.984375,
+          "w": 81.734375,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "17px",
+        "letterSpacing": "1.36px",
+        "wordSpacing": "1.81333px",
+        "client": [
+          82,
+          29
+        ],
+        "scroll": [
+          82,
+          29
+        ]
+      },
+      {
+        "text": "Hard",
+        "rect": {
+          "x": 421.5625,
+          "y": 517.984375,
+          "w": 53.390625,
+          "h": 29.34375
+        },
+        "font": "11.3333px",
+        "lineHeight": "17px",
+        "letterSpacing": "1.36px",
+        "wordSpacing": "1.81333px",
+        "client": [
+          53,
+          29
+        ],
+        "scroll": [
+          53,
+          29
+        ]
+      },
+      {
+        "text": "PLAY\nVS BOTS",
+        "rect": {
+          "x": 56,
+          "y": 571.3125,
+          "w": 341.328125,
+          "h": 53.328125
+        },
+        "font": "25.3333px",
+        "lineHeight": "38px",
+        "letterSpacing": "3.04px",
+        "wordSpacing": "4.05333px",
+        "client": [
+          337,
+          49
+        ],
+        "scroll": [
+          337,
+          49
+        ]
+      },
+      {
+        "text": "FIRING RANGE",
+        "rect": {
+          "x": 56,
+          "y": 692.953125,
+          "w": 150.609375,
+          "h": 34.640625
+        },
+        "font": "10.6667px",
+        "lineHeight": "16px",
+        "letterSpacing": "1.28px",
+        "wordSpacing": "1.70667px",
+        "client": [
+          147,
+          31
+        ],
+        "scroll": [
+          147,
+          31
+        ]
+      },
+      {
+        "text": "LEARN CONTROLS",
+        "rect": {
+          "x": 214.609375,
+          "y": 692.953125,
+          "w": 177.5,
+          "h": 34.640625
+        },
+        "font": "10.6667px",
+        "lineHeight": "16px",
+        "letterSpacing": "1.28px",
+        "wordSpacing": "1.70667px",
+        "client": [
+          174,
+          31
+        ],
+        "scroll": [
+          174,
+          31
+        ]
+      },
+      {
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "rect": {
+          "x": 312.609375,
+          "y": 662.6875,
+          "w": 181.5625,
+          "h": 22.65625
+        },
+        "font": "10.6667px",
+        "lineHeight": "16px",
+        "letterSpacing": "1.28px",
+        "wordSpacing": "1.70667px",
+        "client": [
+          182,
+          23
+        ],
+        "scroll": [
+          182,
+          23
+        ]
+      }
+    ],
+    "afterFocus": {
+      "x": 214.609375,
+      "y": 684.953125,
+      "w": 177.5,
+      "h": 34.640625,
+      "scrollX": 0,
+      "scrollY": 0,
+      "active": true
+    }
+  },
+  {
+    "mode": "baseline",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "document": {
+      "scrollWidth": 567,
+      "scrollHeight": 948,
+      "bodyScrollHeight": 948
+    },
+    "errors": [],
+    "items": [
+      {
+        "text": "PLAY",
+        "rect": {
+          "x": 189,
+          "y": 13.578125,
+          "w": 30.453125,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.42525px",
+        "wordSpacing": "0px",
+        "client": [
+          28,
+          14
+        ],
+        "scroll": [
+          28,
+          14
+        ]
+      },
+      {
+        "text": "TRAINING",
+        "rect": {
+          "x": 222.40625,
+          "y": 13.578125,
+          "w": 44.84375,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.42525px",
+        "wordSpacing": "0px",
+        "client": [
+          43,
+          14
+        ],
+        "scroll": [
+          43,
+          14
+        ]
+      },
+      {
+        "text": "SETTINGS",
+        "rect": {
+          "x": 270.203125,
+          "y": 13.578125,
+          "w": 45.140625,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.42525px",
+        "wordSpacing": "0px",
+        "client": [
+          43,
+          14
+        ],
+        "scroll": [
+          43,
+          14
+        ]
+      },
+      {
+        "text": "Trios",
+        "rect": {
+          "x": 24.796875,
+          "y": 175.71875,
+          "w": 36.671875,
+          "h": 17.65625
+        },
+        "font": "6.49687px",
+        "lineHeight": "9.74531px",
+        "letterSpacing": "0.779625px",
+        "wordSpacing": "0px",
+        "client": [
+          35,
+          16
+        ],
+        "scroll": [
+          35,
+          16
+        ]
+      },
+      {
+        "text": "Solo",
+        "rect": {
+          "x": 64.421875,
+          "y": 175.71875,
+          "w": 34.734375,
+          "h": 17.65625
+        },
+        "font": "6.49687px",
+        "lineHeight": "9.74531px",
+        "letterSpacing": "0.779625px",
+        "wordSpacing": "0px",
+        "client": [
+          33,
+          16
+        ],
+        "scroll": [
+          33,
+          16
+        ]
+      },
+      {
+        "text": "Easy",
+        "rect": {
+          "x": 125.5625,
+          "y": 178.15625,
+          "w": 20.359375,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "6.49687px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          20,
+          13
+        ],
+        "scroll": [
+          20,
+          13
+        ]
+      },
+      {
+        "text": "Standard",
+        "rect": {
+          "x": 147.09375,
+          "y": 178.15625,
+          "w": 31.390625,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "6.49687px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          31,
+          13
+        ],
+        "scroll": [
+          31,
+          13
+        ]
+      },
+      {
+        "text": "Hard",
+        "rect": {
+          "x": 179.65625,
+          "y": 178.15625,
+          "w": 21.25,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "6.49687px",
+        "letterSpacing": "normal",
+        "wordSpacing": "0px",
+        "client": [
+          21,
+          13
+        ],
+        "scroll": [
+          21,
+          13
+        ]
+      },
+      {
+        "text": "PLAY\nVS BOTS",
+        "rect": {
+          "x": 24.796875,
+          "y": 201.671875,
+          "w": 151.1875,
+          "h": 23.625
+        },
+        "font": "11.2219px",
+        "lineHeight": "11.2219px",
+        "letterSpacing": "0.336656px",
+        "wordSpacing": "0px",
+        "client": [
+          149,
+          22
+        ],
+        "scroll": [
+          149,
+          22
+        ]
+      },
+      {
+        "text": "FIRING RANGE",
+        "rect": {
+          "x": 24.796875,
+          "y": 255.703125,
+          "w": 69.5625,
+          "h": 15.578125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.67812px",
+        "letterSpacing": "0.8505px",
+        "wordSpacing": "0px",
+        "client": [
+          68,
+          14
+        ],
+        "scroll": [
+          68,
+          14
+        ]
+      },
+      {
+        "text": "LEARN CONTROLS",
+        "rect": {
+          "x": 97.890625,
+          "y": 255.703125,
+          "w": 82.046875,
+          "h": 15.578125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.67812px",
+        "letterSpacing": "0.8505px",
+        "wordSpacing": "0px",
+        "client": [
+          80,
+          14
+        ],
+        "scroll": [
+          80,
+          14
+        ]
+      },
+      {
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "rect": {
+          "x": 133.96875,
+          "y": 922.625,
+          "w": 75.96875,
+          "h": 10.03125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.0875px",
+        "letterSpacing": "0.4725px",
+        "wordSpacing": "0px",
+        "client": [
+          76,
+          10
+        ],
+        "scroll": [
+          76,
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "mode": "spacing",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "document": {
+      "scrollWidth": 567,
+      "scrollHeight": 948,
+      "bodyScrollHeight": 948
+    },
+    "errors": [],
+    "items": [
+      {
+        "text": "PLAY",
+        "rect": {
+          "x": 189,
+          "y": 13.578125,
+          "w": 31.296875,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.637875px",
+        "wordSpacing": "0.8505px",
+        "client": [
+          29,
+          14
+        ],
+        "scroll": [
+          29,
+          14
+        ]
+      },
+      {
+        "text": "TRAINING",
+        "rect": {
+          "x": 223.25,
+          "y": 13.578125,
+          "w": 46.546875,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.637875px",
+        "wordSpacing": "0.8505px",
+        "client": [
+          45,
+          14
+        ],
+        "scroll": [
+          45,
+          14
+        ]
+      },
+      {
+        "text": "SETTINGS",
+        "rect": {
+          "x": 272.75,
+          "y": 13.578125,
+          "w": 46.84375,
+          "h": 15.875
+        },
+        "font": "5.31563px",
+        "lineHeight": "7.97344px",
+        "letterSpacing": "0.637875px",
+        "wordSpacing": "0.8505px",
+        "client": [
+          45,
+          14
+        ],
+        "scroll": [
+          45,
+          14
+        ]
+      },
+      {
+        "text": "Trios",
+        "rect": {
+          "x": 24.796875,
+          "y": 227.078125,
+          "w": 36.671875,
+          "h": 17.65625
+        },
+        "font": "6.49687px",
+        "lineHeight": "9.74531px",
+        "letterSpacing": "0.779625px",
+        "wordSpacing": "1.0395px",
+        "client": [
+          35,
+          16
+        ],
+        "scroll": [
+          35,
+          16
+        ]
+      },
+      {
+        "text": "Solo",
+        "rect": {
+          "x": 64.421875,
+          "y": 227.078125,
+          "w": 34.734375,
+          "h": 17.65625
+        },
+        "font": "6.49687px",
+        "lineHeight": "9.74531px",
+        "letterSpacing": "0.779625px",
+        "wordSpacing": "1.0395px",
+        "client": [
+          33,
+          16
+        ],
+        "scroll": [
+          33,
+          16
+        ]
+      },
+      {
+        "text": "Easy",
+        "rect": {
+          "x": 125.90625,
+          "y": 229.515625,
+          "w": 22.765625,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "7.53047px",
+        "letterSpacing": "0.602437px",
+        "wordSpacing": "0.80325px",
+        "client": [
+          23,
+          13
+        ],
+        "scroll": [
+          23,
+          13
+        ]
+      },
+      {
+        "text": "Standard",
+        "rect": {
+          "x": 149.84375,
+          "y": 229.515625,
+          "w": 36.21875,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "7.53047px",
+        "letterSpacing": "0.602437px",
+        "wordSpacing": "0.80325px",
+        "client": [
+          36,
+          13
+        ],
+        "scroll": [
+          36,
+          13
+        ]
+      },
+      {
+        "text": "Hard",
+        "rect": {
+          "x": 187.234375,
+          "y": 229.515625,
+          "w": 23.65625,
+          "h": 12.78125
+        },
+        "font": "5.02031px",
+        "lineHeight": "7.53047px",
+        "letterSpacing": "0.602437px",
+        "wordSpacing": "0.80325px",
+        "client": [
+          24,
+          13
+        ],
+        "scroll": [
+          24,
+          13
+        ]
+      },
+      {
+        "text": "PLAY\nVS BOTS",
+        "rect": {
+          "x": 24.796875,
+          "y": 253.03125,
+          "w": 151.1875,
+          "h": 23.625
+        },
+        "font": "11.2219px",
+        "lineHeight": "16.8328px",
+        "letterSpacing": "1.34662px",
+        "wordSpacing": "1.7955px",
+        "client": [
+          149,
+          22
+        ],
+        "scroll": [
+          149,
+          22
+        ]
+      },
+      {
+        "text": "FIRING RANGE",
+        "rect": {
+          "x": 24.796875,
+          "y": 306.921875,
+          "w": 66.921875,
+          "h": 15.578125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.0875px",
+        "letterSpacing": "0.567px",
+        "wordSpacing": "0.756px",
+        "client": [
+          65,
+          14
+        ],
+        "scroll": [
+          65,
+          14
+        ]
+      },
+      {
+        "text": "LEARN CONTROLS",
+        "rect": {
+          "x": 95.25,
+          "y": 306.921875,
+          "w": 78.828125,
+          "h": 15.578125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.0875px",
+        "letterSpacing": "0.567px",
+        "wordSpacing": "0.756px",
+        "client": [
+          77,
+          14
+        ],
+        "scroll": [
+          77,
+          14
+        ]
+      },
+      {
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "rect": {
+          "x": 138.875,
+          "y": 922.625,
+          "w": 80.78125,
+          "h": 10.03125
+        },
+        "font": "4.725px",
+        "lineHeight": "7.0875px",
+        "letterSpacing": "0.567px",
+        "wordSpacing": "0.756px",
+        "client": [
+          81,
+          10
+        ],
+        "scroll": [
+          81,
+          10
+        ]
+      }
+    ]
+  }
+]
