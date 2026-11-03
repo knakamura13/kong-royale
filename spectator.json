@@ -1,0 +1,20 @@
+{
+  "text": "Q\nSPECTATING\n2 ALIVE\nAUDIT PLAYER\n2\n50\n80\nBunchgun\nIN THE STORM\nE\n1 / 2|Tab ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n2 ALIVE\nTab / ESC · CLOSE\nAUDIT PLAYER\n2\nWATCHING\nSECOND PLAYER\n3\nWATCH",
+  "buttons": [
+    {
+      "text": "Q",
+      "w": 46,
+      "h": 81.34375
+    },
+    {
+      "text": "E",
+      "w": 46,
+      "h": 81.34375
+    },
+    {
+      "text": "SECOND PLAYER3WATCH",
+      "w": 236.671875,
+      "h": 25
+    }
+  ]
+}
