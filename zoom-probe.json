@@ -1,0 +1,33 @@
+{
+  "note": "CDP page scale probe is pinch zoom, NOT browser zoom conformance evidence",
+  "out": [
+    {
+      "innerWidth": 1280,
+      "innerHeight": 720,
+      "dpr": 1,
+      "visualScale": 1,
+      "font": "12px"
+    },
+    {
+      "innerWidth": 1280,
+      "innerHeight": 720,
+      "dpr": 1,
+      "visualScale": 1.25,
+      "font": "12px"
+    },
+    {
+      "innerWidth": 1280,
+      "innerHeight": 720,
+      "dpr": 1,
+      "visualScale": 1.5,
+      "font": "12px"
+    },
+    {
+      "innerWidth": 1280,
+      "innerHeight": 720,
+      "dpr": 1,
+      "visualScale": 2,
+      "font": "12px"
+    }
+  ]
+}

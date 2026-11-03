@@ -1,0 +1,282 @@
+[
+  {
+    "step": "guide opened",
+    "active": "<button class=\"next\">Next</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 0",
+    "active": "<button class=\"close\">Skip guide</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 1",
+    "active": "<button class=\"range\">Practice controls in firing range</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 2",
+    "active": "<button aria-pressed=\"true\">Move</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 3",
+    "active": "<button aria-pressed=\"false\">Sprint, slide and crouch</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 4",
+    "active": "<button aria-pressed=\"false\">Mantle</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 5",
+    "active": "<button aria-pressed=\"false\">Take a weapon</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 6",
+    "active": "<button aria-pressed=\"false\">Aim and fire</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 7",
+    "active": "<button aria-pressed=\"false\">Reload</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 8",
+    "active": "<button aria-pressed=\"false\">Heal</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 9",
+    "active": "<button aria-pressed=\"false\">Map pins</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 10",
+    "active": "<button aria-pressed=\"false\">Inventory</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 11",
+    "active": "<button aria-pressed=\"false\">Jump from the plane</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 12",
+    "active": "<button class=\"next\">Next</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 13",
+    "active": "<button class=\"close\">Skip guide</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide tab 14",
+    "active": "<button class=\"range\">Practice controls in firing range</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE"
+  },
+  {
+    "step": "guide escape",
+    "active": "<button class=\"tn-play-link\" type=\"button\"><svg class=\"tn-play-ico wide\" viewBox=\"0 0 28 24\" aria-hidden=\"true\" focusable=\"false\"><path fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.8\" stroke-linejoin=\"round\" d=\"M14 5c-3-2-7-2.5-12-2v17c5-.5 9 0 12 2 3-2 7-2.5 12-2V3c-5-.5-9 0-12 2zM14 5v17\"></path></svg><span>Learn controls</span></button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN"
+  },
+  {
+    "step": "settings ArrowDown",
+    "active": "<div class=\"tn-set-row tn-tile is-sel\" data-i=\"1\" tabindex=\"-1\" role=\"listitem\" aria-label=\"Aim sensitivity\" aria-describedby=\"tn-set-help\"><div class=\"lbl tn-label\">Aim sensitivity<small hidden=\"\"></small></div><div class=\"ctl\"><div class=\"tn-set-sl\"><div class=\"tn-slider\" role=\"slider\" aria-label=\"Aim sensitivity\" aria-valuemin=\"0.2\" aria-valuemax=\"2\" aria-valuenow=\"1\" aria-valuetext=\"1.00x\"><div class=\"track\"></div><div class=\"fill\" style=\"width: 44.4444%;\"></div><div class=\"thumb\" style=\"left: 44.4444%;\"></div></div><div class=\"tn-set-val\">1.00x</div></div></div><div class=\"tn-set-err\" role=\"alert\" hidden=\"\"></div></div>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nAim sensitivity\n\nMultiplier while aiming down sights, on top of the zoom's own scaling.\n\n1.00x keeps the zoom's own feel.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE"
+  },
+  {
+    "step": "settings ArrowRight",
+    "active": "<div class=\"tn-set-row tn-tile is-sel\" data-i=\"1\" tabindex=\"-1\" role=\"listitem\" aria-label=\"Aim sensitivity\" aria-describedby=\"tn-set-help\"><div class=\"lbl tn-label\">Aim sensitivity<small hidden=\"\"></small></div><div class=\"ctl\"><div class=\"tn-set-sl\"><div class=\"tn-slider\" role=\"slider\" aria-label=\"Aim sensitivity\" aria-valuemin=\"0.2\" aria-valuemax=\"2\" aria-valuenow=\"1.05\" aria-valuetext=\"1.05x\"><div class=\"track\"></div><div class=\"fill\" style=\"width: 47.2222%;\"></div><div class=\"thumb\" style=\"left: 47.2222%;\"></div></div><div class=\"tn-set-val\">1.05x</div></div></div><div class=\"tn-set-err\" role=\"alert\" hidden=\"\"></div></div>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.05x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nAim sensitivity\n\nMultiplier while aiming down sights, on top of the zoom's own scaling.\n\n1.00x keeps the zoom's own feel.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE"
+  },
+  {
+    "step": "settings Tab",
+    "active": "<div class=\"tn-set-row tn-tile is-sel\" data-i=\"0\" tabindex=\"-1\" role=\"listitem\" aria-label=\"Aim\" aria-describedby=\"tn-set-help\"><div class=\"lbl tn-label\">Aim<small hidden=\"\"></small></div><div class=\"ctl\"><div class=\"tn-seg\" role=\"radiogroup\" aria-label=\"Aim\" data-sig=\"Hold|Toggle\"><button type=\"button\" role=\"radio\" data-a=\"seg\" data-v=\"0\" tabindex=\"-1\" class=\"is-on\" aria-checked=\"true\">Hold</button><button type=\"button\" role=\"radio\" data-a=\"seg\" data-v=\"1\" tabindex=\"-1\" aria-checked=\"false\">Toggle</button></div></div><div class=\"tn-set-err\" role=\"alert\" hidden=\"\"></div></div>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nAim\nHold\nToggle\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto sprint\nOff\nBEHAVIOR\nAim\n\nHold: aim while the aim button is held.\n\nToggle: press aim once to enter or leave aim instead of holding it.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE"
+  },
+  {
+    "step": "settings ArrowDown",
+    "active": "<div class=\"tn-set-row tn-tile is-sel\" data-i=\"1\" tabindex=\"-1\" role=\"listitem\" aria-label=\"Crouch\" aria-describedby=\"tn-set-help\"><div class=\"lbl tn-label\">Crouch<small hidden=\"\"></small></div><div class=\"ctl\"><div class=\"tn-seg\" role=\"radiogroup\" aria-label=\"Crouch\" data-sig=\"Hold|Toggle\"><button type=\"button\" role=\"radio\" data-a=\"seg\" data-v=\"0\" tabindex=\"-1\" class=\"is-on\" aria-checked=\"true\">Hold</button><button type=\"button\" role=\"radio\" data-a=\"seg\" data-v=\"1\" tabindex=\"-1\" aria-checked=\"false\">Toggle</button></div></div><div class=\"tn-set-err\" role=\"alert\" hidden=\"\"></div></div>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nAim\nHold\nToggle\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto sprint\nOff\nBEHAVIOR\nCrouch\n\nHold: stay low while the crouch key is held.\n\nToggle: press your crouch key to enter or leave crouch.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE"
+  },
+  {
+    "step": "settings Escape",
+    "active": "<button class=\"tn-pill\" type=\"button\">Settings</button>",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN"
+  },
+  {
+    "step": "inventory open",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 23 FPS\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nE\nEQUIPPED\nR\nMOVE\nG\nDROP\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  },
+  {
+    "step": "inventory Digit2",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 23 FPS\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nEMPTY SLOT · PICK UP ITEMS IN THE WORLD\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  },
+  {
+    "step": "inventory KeyR",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 23 FPS\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nEMPTY SLOT · PICK UP ITEMS IN THE WORLD\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  },
+  {
+    "step": "inventory Escape",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 31 FPS\nCLICK TO AIM WITH THE MOUSE\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  },
+  {
+    "step": "map",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 31 FPS\n50\nALIVE\nWARM-UP\n0:11\nNEXT SAFE ZONE\nSTORM\nFLIGHT PATH\nYOUR DROP MARKER\nGUNFIRE\nBANANA STAND (BUY)\nBOUNTY TARGET AREA\nCLICK\nPLACE MARKER\nRIGHT-CLICK\nREMOVE\nWHEEL\nZOOM\nM\nCLOSE\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  },
+  {
+    "step": "map escape",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"tn-hud-edge\"></div><div class=\"kr-minimap\"><canvas height=\"169\" width=\"169\"></",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 31 FPS\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS"
+  }
+]

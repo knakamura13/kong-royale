@@ -76,3 +76,9 @@ Scripts are preserved under `scripts/`. Run with `NODE_PATH` pointing at the che
 ## Additional live coverage
 
 `additional-states.json` and corresponding screenshots add callsign popover, empty-name validation error, Friends popover, populated firing-range inventory, map and bug-report overlay. No report was submitted. The final `pause-later` capture still shows the bug overlay: the attempted Escape sequence does not establish successful dismissal. These runs establish presentation evidence, not full keyboard conformance. Multiplayer roster/error states and real spectator transitions remain unverified.
+
+## Actual Chrome zoom and keyboard verification
+
+Native Chrome on macOS was opened in a dedicated local-game tab. The browser menu showed 100%; Command+= raised it through 110/125/150/175 to 200%, with the native accessibility tree reporting `Zoom: 200%` and the browser screenshot displaying 200%. The lobby heading, navigation and action labels remained essentially the same visual size at 100% and 200%, confirming cancellation of browser enlargement in this path. This supersedes the earlier statement that browser zoom was untested. It does not establish every browser/text-only resizing result. Zoom was restored to 100% and the audit tab closed. Screenshots were inspected in the native tool conversation; no unrelated browser content is included in the published evidence files.
+
+`keyboard.json` records actual key traversal: guide Tab cycles across station/action buttons and wraps, Escape returns focus to Learn controls; Settings arrows move/select and adjust, Tab changes subsection, Escape restores the Settings button. Inventory/map key sequences were also recorded. This is a sampled path, not exhaustive keyboard certification. `zoom-probe.json` explicitly records a separate pinch-scale experiment and must not be used as browser-zoom evidence.
