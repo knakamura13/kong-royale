@@ -1,0 +1,1101 @@
+[
+  {
+    "name": "lobby",
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\n\nBATTLE ROYALE · 50 PLAYERS\n\nTHE ISLAND AWAITS.\nREADY\n100%\nLEARN CONTROLS\n\nCOMBAT TIP\n\nRIGHT MOUSE\nSCOPE\n\nOnly the Longstem sniper zooms when you aim.",
+    "buttons": [
+      {
+        "text": "Play",
+        "w": 72.59375,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Training",
+        "w": 107.296875,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Settings",
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Trios",
+        "w": 87.546875,
+        "h": 41.6875,
+        "font": "15.6444px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Solo",
+        "w": 82.84375,
+        "h": 41.6875,
+        "font": "15.6444px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Easy",
+        "w": 49.03125,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Standard",
+        "w": 75.578125,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hard",
+        "w": 51.15625,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Playvs bots",
+        "w": 364.078125,
+        "h": 56.875,
+        "font": "27.0222px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Firing range",
+        "w": 166.75,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Learn controls",
+        "w": 196.796875,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "FULL SCREEN⌥ RETURN",
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Learn controls",
+        "w": 150.1875,
+        "h": 21.46875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "guide",
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nBATTLE ROYALE\nRULE THE\nISLAND.\n\n50 PLAYERS · SOLO · RESURGENCE\n\nTrios\nSolo\nBOTS\nEasy\nStandard\nHard\nPLAY\nVS BOTS\nLIVE PLAYTEST\n·\n0 PLAYERS ONLINE\nFIRING RANGE\nLEARN CONTROLS\nENTER\nPLAY\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN\nLearn the controls\n\nA quick guide before your first match. Pick any station to replay it, or skip whenever you like.\n\nMOVE\nSPRINT, SLIDE AND CROUCH\nMANTLE\nTAKE A WEAPON\nAIM AND FIRE\nRELOAD\nHEAL\nMAP PINS\nINVENTORY\nJUMP FROM THE PLANE\n1 / 10 · Move\n\nW A S D / ARROW KEYS\n\nMove around and look with the mouse. Click the game to capture the cursor.\n\nNEXT\nSKIP GUIDE\nPRACTICE CONTROLS IN FIRING RANGE",
+    "buttons": [
+      {
+        "text": "Play",
+        "w": 72.59375,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Training",
+        "w": 107.296875,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Settings",
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Trios",
+        "w": 87.546875,
+        "h": 41.6875,
+        "font": "15.6444px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Solo",
+        "w": 82.84375,
+        "h": 41.6875,
+        "font": "15.6444px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Easy",
+        "w": 49.03125,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Standard",
+        "w": 75.578125,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hard",
+        "w": 51.15625,
+        "h": 31.5625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Playvs bots",
+        "w": 364.078125,
+        "h": 56.875,
+        "font": "27.0222px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Firing range",
+        "w": 166.75,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Learn controls",
+        "w": 196.796875,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "FULL SCREEN⌥ RETURN",
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Move",
+        "w": 60.078125,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Sprint, slide and crouch",
+        "w": 189.953125,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mantle",
+        "w": 73.796875,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Take a weapon",
+        "w": 123.890625,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Aim and fire",
+        "w": 106.453125,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Reload",
+        "w": 73.375,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Heal",
+        "w": 57.171875,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Map pins",
+        "w": 82.9375,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Inventory",
+        "w": 92.984375,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Jump from the plane",
+        "w": 160.890625,
+        "h": 29.375,
+        "font": "9.95556px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Next",
+        "w": 74.765625,
+        "h": 36.96875,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Skip guide",
+        "w": 118.421875,
+        "h": 36.96875,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Practice controls in firing range",
+        "w": 309.90625,
+        "h": 36.96875,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 123.671875,
+        "h": 36.953125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 184.25,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 130.8125,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 84.171875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 82.390625,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 141.6875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 86.453125,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Behavior",
+        "w": 113.78125,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 109.65625,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 166.015625,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-controller",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nButton prompts\nAuto\nXbox\nPlayStation\nNintendo\nController layout\n‹\nStandard\n›\nSwap sticks (southpaw)\nOff\nVibration\nOn\nVibration intensity\n80%\nTrigger rumble\nOn\nTest vibration\nTEST\nCONTROLLER\nButton prompts\n\nWhich button icons the game shows. Auto follows the controller you are holding.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nA\nJump / exit plane / glider\nB\nCrouch / slide\nX\nInteract\nY\nSwap to last slot\nLB\nPrevious slot\nRB\nNext slot\nNO CONTROLLER CONNECTED · SHOWING XBOX\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 123.671875,
+        "h": 36.953125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 184.25,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 130.8125,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 84.171875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 82.390625,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 141.6875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 93.359375,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Look",
+        "w": 73.96875,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 128.109375,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 113.78125,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 109.65625,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Auto",
+        "w": 50.90625,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Xbox",
+        "w": 52.40625,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "PlayStation",
+        "w": 89.796875,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Nintendo",
+        "w": 75.40625,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Off",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Test",
+        "w": 69.703125,
+        "h": 31.28125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 166.015625,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-audio",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nVOLUME\nMaster volume\n90%\nCombat & world\n100%\nInterface & confirmations\n100%\nIsland ambience\n100%\nTuk-tuk radio\n100%\nDynamic range\nFull\nReduced\nMIX\nMaster volume\n\nAll game sound. Every other channel is mixed beneath it.\n\nMASTER 90%\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 123.671875,
+        "h": 36.953125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 184.25,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 130.8125,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 84.171875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Video",
+        "w": 82.390625,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 141.6875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Volume",
+        "w": 96.453125,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Full",
+        "w": 44.65625,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Reduced",
+        "w": 71.765625,
+        "h": 29.859375,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 166.015625,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-video",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nDISPLAY\nGRAPHICS\nTAB\nFrame rate limit\n‹\nDisplay · 64 Hz\n›\n3D resolution\n100%\nDynamic resolution\nOff\nField of view\n105°\nShow FPS\nOff\nDISPLAY\nFrame rate limit\n\nCaps how often a frame is drawn. Display matches your monitor's refresh rate (detected). Unlimited draws every refresh your browser allows: pick it on a 240 Hz monitor.\n\nA lower cap saves battery and keeps laptops cool.\n\n▶\nHARDWARE DETAILS\nI\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 123.671875,
+        "h": 36.953125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 184.25,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 130.8125,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 84.171875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 82.390625,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 141.6875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Display",
+        "w": 99,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Graphics",
+        "w": 112.9375,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 28.4375,
+        "h": 28.4375,
+        "font": "15.6444px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 166.015625,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-accessibility",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nReduced camera motion\nOff\nHUD size\n100%\nMenu text size\n100%\nCOMFORT\nReduced camera motion\n\nRemoves decorative shake, bob, landing dip and camera roll, and stills menu motion. Aim and gameplay recoil remain accurate.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 123.671875,
+        "h": 36.953125,
+        "font": "12.0889px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 184.25,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 130.8125,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 84.171875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 82.390625,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 141.6875,
+        "h": 36.703125,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 240.09375,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Minimap",
+        "w": 101.9375,
+        "h": 31.015625,
+        "font": "12.0889px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 85.3125,
+        "h": 25.59375,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 256,
+        "h": 22.75,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 166.015625,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "training",
+    "text": "PLAY\nTRAINING\nSETTINGS\nCallsign\nKONG\nEDIT CALLSIGN\nFRIENDS\nTRAINING\nSHARPEN\nUP.\nFIRING RANGE\nEvery weapon, infinite ammo, targets at 10–205 m.\nLEARN CONTROLS\nTen short lessons. Keys follow your bindings.\nYOUR KEYS\nWASD\nMOVE\nSPACE\nJUMP\nE\nOPEN / TAKE\nM\nMAP\nTAB\nINVENTORY\nESC\nPAUSE\n/\nREPORT A BUG\nENTER\nFIRING RANGE\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN",
+    "buttons": [
+      {
+        "text": "Play",
+        "w": 72.59375,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Training",
+        "w": 107.296875,
+        "h": 37.421871185302734,
+        "font": "12.8px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Settings",
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Firing rangeEvery weapon, infinite ammo, targets at 10–205 m",
+        "w": 398.21875,
+        "h": 87.1875,
+        "font": "13.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(14, 42, 61)"
+      },
+      {
+        "text": "Learn controlsTen short lessons. Keys follow your bindings.",
+        "w": 398.21875,
+        "h": 87.1875,
+        "font": "13.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(14, 42, 61)"
+      },
+      {
+        "text": "FULL SCREEN⌥ RETURN",
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "range",
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 60 FPS\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS",
+    "buttons": []
+  },
+  {
+    "name": "pause",
+    "text": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 52 FPS\nFIRING RANGE\nMENU\nMATCH CONTINUES\nRESUME\nSETTINGS\nPRACTICE ANALYTICS\nOFF\nEXIT FULL SCREEN\n⌥ RETURN\nREPORT A PROBLEM\nLEAVE MATCH\nESC\nRESUME\n↑↓\nSELECT\nENTER\nOPEN\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS",
+    "buttons": [
+      {
+        "text": "RESUME",
+        "w": 398.21875,
+        "h": 54.03125,
+        "font": "22.7556px",
+        "color": "rgb(230, 241, 248)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "SETTINGS",
+        "w": 398.21875,
+        "h": 54.03125,
+        "font": "22.7556px",
+        "color": "rgb(230, 241, 248)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "PRACTICE ANALYTICSOFF",
+        "w": 398.21875,
+        "h": 54.03125,
+        "font": "22.7556px",
+        "color": "rgb(230, 241, 248)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "EXIT FULL SCREEN⌥ RETURN",
+        "w": 398.21875,
+        "h": 54.03125,
+        "font": "22.7556px",
+        "color": "rgb(230, 241, 248)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "REPORT A PROBLEM",
+        "w": 398.21875,
+        "h": 54.03125,
+        "font": "22.7556px",
+        "color": "rgb(230, 241, 248)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LEAVE MATCH",
+        "w": 236.6400146484375,
+        "h": 55.11181640625,
+        "font": "22.7556px",
+        "color": "rgb(255, 255, 255)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  }
+]

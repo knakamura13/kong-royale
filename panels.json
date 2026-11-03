@@ -1,0 +1,49 @@
+[
+  {
+    "name": "inventory",
+    "data": {
+      "text": "INVENTORY\n0 / 5\nTAB\nESC\nCLOSE\n1\n+\nEMPTY\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nEMPTY SLOT · PICK UP ITEMS IN THE WORLD\nLIGHT\n0 / 300\nHEAVY\n0 / 40\nSHELLS\n0 / 48\nROCKETS\n0 / 8\nRELEASE TO DROP",
+      "buttons": [
+        {
+          "text": "TABESCClose",
+          "w": 125.53125,
+          "h": 22.65625,
+          "font": "10.6667px"
+        }
+      ]
+    }
+  },
+  {
+    "name": "shop",
+    "data": {
+      "text": "BANANA STAND\nAudit fixture\nBANANA BUCKS\n100\n1\nShield\nRestore shield\n50\nWHAT'LL IT BE, KONG?\n1–7 OR CLICK TO BUY\nTAKING DAMAGE CLOSES THE STAND\nEESCLEAVE",
+      "buttons": []
+    }
+  },
+  {
+    "name": "results",
+    "data": {
+      "text": "YOU PLACED\n#12\nOF 50 PLAYERS\n2\nKILLS\n240\nDAMAGE\n2:00\nTIME IN MATCH\nPLAY AGAIN\nSPECTATE\nBACK TO LOBBY\nYOUR PRACTICE MODE AND DIFFICULTY ARE KEPT FOR PLAY AGAIN",
+      "buttons": [
+        {
+          "text": "PLAY AGAIN",
+          "w": 280,
+          "h": 45,
+          "font": "22px"
+        },
+        {
+          "text": "SPECTATE",
+          "w": 280,
+          "h": 45,
+          "font": "22px"
+        },
+        {
+          "text": "BACK TO LOBBY",
+          "w": 280,
+          "h": 45,
+          "font": "22px"
+        }
+      ]
+    }
+  }
+]

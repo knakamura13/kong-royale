@@ -1,0 +1,5130 @@
+[
+  {
+    "name": "settings-1280-0-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 81.328125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-0-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nAim\nHold\nToggle\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto sprint\nOff\nBEHAVIOR\nAim\n\nHold: aim while the aim button is held.\n\nToggle: press aim once to enter or leave aim instead of holding it.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 81.328125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-0-2",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMove forward\nW\nARROW UP\nMove back\nS\nARROW DOWN\nMove left\nA\nARROW LEFT\nMove right\nD\nARROW RIGHT\nFire / use item\nLEFT MOUSE\n—\nAim down sights\nRIGHT MOUSE\n—\nJump / exit plane\nSPACE\n—\nCrouch\nC\nRIGHT SHIFT\nSprint / dive / hold breath\nLEFT SHIFT\n—\nInteract\nE\nF\nReload\nR\n—\nThrow banana bomb (hold to cook)\nG\n—\nNext slot\nWHEEL DOWN\n—\nPrevious slot\nWHEEL UP\n—\nSwap to last slot\nQ\n—\nMap\nM\n—\nPing / mark the spot you look at\nMIDDLE MOUSE\nZ\nPush to talk (squad voice)\nB\n—\nInventory\nTAB\n—\nDeploy glider\nX\n—\nEquipment slot 1\n1\nEquipment slot 2\n2\nEquipment slot 3\n3\nEquipment slot 4\n4\nEquipment slot 5\n5\nTuk-tuk radio · next station\nT\n—\nTuk-tuk seat 1\nF1\nTuk-tuk seat 2\nF2\nTuk-tuk seat 3\nF3\nTuk-tuk driver view\nV\n—\nBINDINGS\nMove forward\n\nSelect a slot, then press a key (Ctrl, Alt and Shift included), click a mouse button (side buttons included) or roll the wheel. Esc cancels; Backspace, Delete or CLEAR unbinds the slot. Slash opens issue reporting.\n\nA key another action already uses moves here, and the message names that action (it keeps its other key, or shows Unbound). Equipment slot and seat keys are refused instead.\n\nW\nARROW UP\nEnter or click a slot to rebind\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 81.328125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "W",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Up",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "S",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Down",
+        "w": 115.9375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "A",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Left",
+        "w": 104.359375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "D",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Right",
+        "w": 113.40625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Left mouse",
+        "w": 100.03125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Right mouse",
+        "w": 109.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Space",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "C",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Right Shift",
+        "w": 100.96875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Left Shift",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "E",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "R",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "G",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Wheel down",
+        "w": 111.875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Wheel up",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Q",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "M",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Middle mouse",
+        "w": 118.28125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Z",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "B",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Tab",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "X",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "2",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "3",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "4",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "5",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "T",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "F1",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F2",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F3",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "V",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-1-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nButton prompts\nAuto\nXbox\nPlayStation\nNintendo\nController layout\n‹\nStandard\n›\nSwap sticks (southpaw)\nOff\nVibration\nOn\nVibration intensity\n80%\nTrigger rumble\nOn\nTest vibration\nTEST\nCONTROLLER\nButton prompts\n\nWhich button icons the game shows. Auto follows the controller you are holding.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nA\nJump / exit plane / glider\nB\nCrouch / slide\nX\nInteract\nY\nSwap to last slot\nLB\nPrevious slot\nRB\nNext slot\nNO CONTROLLER CONNECTED · SHOWING XBOX\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 87.796875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Look",
+        "w": 69.625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 120.390625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Auto",
+        "w": 47.71875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Xbox",
+        "w": 49.140625,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "PlayStation",
+        "w": 84.203125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Nintendo",
+        "w": 70.6875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Test",
+        "w": 65.59375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-1-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nHorizontal look speed\n190°/s\nVertical look speed\n125°/s\nResponse curve\nStandard\nLinear\nDynamic\nTurn boost\n+80°/s\nTurn boost ramp-up\n0.30 s\nAim down sights speed\n1.00x\nScope speed\n1.00x\nInvert vertical look\nOff\nAim assist\nOn\nAim assist strength\n65%\nLOOK\nHorizontal look speed\n\nTurn speed at full stick deflection.\n\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 87.796875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 69.625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 120.390625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Standard",
+        "w": 70.859375,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Linear",
+        "w": 54.796875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Dynamic",
+        "w": 67.71875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-1-2",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nLeft stick deadzone\n10%\nRight stick deadzone\n8%\nOuter threshold\n95%\nDeadzone shape\nRadial\nAxial\nTrigger threshold\n12%\nDEADZONES\nLeft stick deadzone\n\nIgnore this much stick travel at rest. Raise it if you drift without touching the stick.\n\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 87.796875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 69.625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 120.390625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Radial",
+        "w": 55.484375,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Axial",
+        "w": 49.046875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-1-3",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nAim down sights\nHold\nToggle\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto\nBEHAVIOR\nAim down sights\n\nHold the aim trigger, or press once to toggle.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 87.796875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 69.625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 120.390625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Hold",
+        "w": 47.453125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Toggle",
+        "w": 58.125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Auto",
+        "w": 47.71875,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-1-4",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nFire / use item\nRT\n—\nAim down sights\nLT\n—\nJump / exit plane / glider\nA\n—\nCrouch / slide\nB\n—\nSprint / dive / hold breath\nLS\n—\nInteract · reload when nothing to take\nX\n—\nReload\nUNBOUND\n—\nNext slot\nRB\n—\nPrevious slot\nLB\n—\nSwap to last slot\nY\n—\nMap\nVIEW\nSHARE\nInventory\nD-PAD ↑\n—\nDeploy glider\nD-PAD ↓\n—\nPing / mark the spot you look at\nD-PAD →\n—\nThrow banana bomb (hold to cook)\nD-PAD ←\n—\nTuk-tuk radio · next station\nD-PAD ↓\n—\nTuk-tuk driver view\nY\n—\nBINDINGS\nFire / use item\n\nSelect a slot, then press a controller button. A button another action uses swaps over; pressing the button already in an alternate slot clears it.\n\nMENU (pause) cancels and cannot be bound. Move and look are the sticks.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 87.796875,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 69.625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 120.390625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 106.953125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 103.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "RT",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LT",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "A",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "B",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LS",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "X",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Unbound",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(255, 77, 94)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "RB",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LB",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Y",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "VIEW",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "SHARE",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "D-PAD ↑",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ↓",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD →",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ←",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ↓",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Y",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 100,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-2-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nVOLUME\nMaster volume\n90%\nCombat & world\n100%\nInterface & confirmations\n100%\nIsland ambience\n100%\nTuk-tuk radio\n100%\nDynamic range\nFull\nReduced\nMIX\nMaster volume\n\nAll game sound. Every other channel is mixed beneath it.\n\nMASTER 90%\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Volume",
+        "w": 90.703125,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Full",
+        "w": 41.859375,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Reduced",
+        "w": 67.28125,
+        "h": 27.984375,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-3-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nDISPLAY\nGRAPHICS\nTAB\nFrame rate limit\n‹\nDisplay · 85 Hz\n›\n3D resolution\n100%\nDynamic resolution\nOff\nField of view\n105°\nShow FPS\nOff\nDISPLAY\nFrame rate limit\n\nCaps how often a frame is drawn. Display matches your monitor's refresh rate (detected). Unlimited draws every refresh your browser allows: pick it on a 240 Hz monitor.\n\nA lower cap saves battery and keeps laptops cool.\n\n▶\nHARDWARE DETAILS\nI\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Display",
+        "w": 93.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Graphics",
+        "w": 106.15625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-3-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nDISPLAY\nGRAPHICS\nTAB\nQuality preset\n‹\nAuto · High\n›\nAnti-aliasing\n‹\nTAA\n›\nView distance\n‹\nHigh\n›\nShadows\n‹\nHigh\n›\nAmbient occlusion\nOn\nPost processing\n‹\nHigh\n›\nFoliage\n‹\nHigh\n›\nEffects\n‹\nHigh\n›\nGRAPHICS\nQuality preset\n\nAuto picks the best preset for your GPU (detected on your first visit, confirmed by a short benchmark). Low and Medium are tuned for laptops; Epic is everything at full quality for desktop GPUs.\n\nChanging any option below makes it Custom.\n\nANTI-ALIASING\nTAA\nVIEW DISTANCE\nSHADOWS\nAMBIENT OCCLUSION\nOn\nPOST PROCESSING\nFOLIAGE\nEFFECTS\nPRESET: AUTO · HIGH\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Display",
+        "w": 93.09375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Graphics",
+        "w": 106.15625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "On",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 26.65625,
+        "h": 26.65625,
+        "font": "14.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-4-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nReduced camera motion\nOff\nHUD size\n100%\nMenu text size\n100%\nCOMFORT\nReduced camera motion\n\nRemoves decorative shake, bob, landing dip and camera roll, and stills menu motion. Aim and gameplay recoil remain accurate.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 225.40625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Minimap",
+        "w": 95.859375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 240,
+        "h": 21.328125,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-1280-4-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nRotate minimap\nOff\nMINIMAP\nRotate minimap\n\nThe map turns as you look around so the way you face is always up (an N marks north on the rim). Off: north stays up and your arrow turns.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 116.21875,
+        "h": 34.875,
+        "font": "11.3333px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.046875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 122.9375,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 79.1875,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 77.515625,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 133.125,
+        "h": 34.671875,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 225.40625,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Minimap",
+        "w": 95.859375,
+        "h": 29.328125,
+        "font": "11.3333px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Off",
+        "w": 79.96875,
+        "h": 24,
+        "font": "14px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 155.875,
+        "h": 22.65625,
+        "font": "10.6667px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-maxtext-1280",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nRotate minimap\nOff\nMINIMAP\nRotate minimap\n\nThe map turns as you look around so the way you face is always up (an N marks north on the rim). Off: north stays up and your arrow turns.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 155.6875,
+        "h": 43.65625,
+        "font": "17px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 241.609375,
+        "h": 42,
+        "font": "17px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 166.421875,
+        "h": 42,
+        "font": "17px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 100.796875,
+        "h": 42,
+        "font": "17px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 98.296875,
+        "h": 42,
+        "font": "17px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 181.734375,
+        "h": 42,
+        "font": "17px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 324.171875,
+        "h": 36.65625,
+        "font": "17px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Minimap",
+        "w": 129.796875,
+        "h": 36.65625,
+        "font": "17px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Off",
+        "w": 86.5,
+        "h": 28,
+        "font": "21px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 229.578125,
+        "h": 34,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-0-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 76.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-0-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nAim\nHold\nToggle\nBEHAVIOR\nAim\n\nHold: aim while the aim button is held.\n\nToggle: press aim once to enter or leave aim instead of holding it.\n\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto sprint\nOff\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 76.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-0-2",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMove forward\nW\nARROW UP\nBINDINGS\nMove forward\n\nSelect a slot, then press a key (Ctrl, Alt and Shift included), click a mouse button (side buttons included) or roll the wheel. Esc cancels; Backspace, Delete or CLEAR unbinds the slot. Slash opens issue reporting.\n\nA key another action already uses moves here, and the message names that action (it keeps its other key, or shows Unbound). Equipment slot and seat keys are refused instead.\n\nW\nARROW UP\nEnter or click a slot to rebind\nMove back\nS\nARROW DOWN\nMove left\nA\nARROW LEFT\nMove right\nD\nARROW RIGHT\nFire / use item\nLEFT MOUSE\n—\nAim down sights\nRIGHT MOUSE\n—\nJump / exit plane\nSPACE\n—\nCrouch\nC\nRIGHT SHIFT\nSprint / dive / hold breath\nLEFT SHIFT\n—\nInteract\nE\nF\nReload\nR\n—\nThrow banana bomb (hold to cook)\nG\n—\nNext slot\nWHEEL DOWN\n—\nPrevious slot\nWHEEL UP\n—\nSwap to last slot\nQ\n—\nMap\nM\n—\nPing / mark the spot you look at\nMIDDLE MOUSE\nZ\nPush to talk (squad voice)\nB\n—\nInventory\nTAB\n—\nDeploy glider\nX\n—\nEquipment slot 1\n1\nEquipment slot 2\n2\nEquipment slot 3\n3\nEquipment slot 4\n4\nEquipment slot 5\n5\nTuk-tuk radio · next station\nT\n—\nTuk-tuk seat 1\nF1\nTuk-tuk seat 2\nF2\nTuk-tuk seat 3\nF3\nTuk-tuk driver view\nV\n—\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse",
+        "w": 76.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "W",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Up",
+        "w": 90.375,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "S",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Down",
+        "w": 116.296875,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "A",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Left",
+        "w": 103.765625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "D",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Arrow Right",
+        "w": 113.546875,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Left mouse",
+        "w": 99.109375,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Right mouse",
+        "w": 108.890625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Space",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "C",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Right Shift",
+        "w": 100.109375,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Left Shift",
+        "w": 90.3125,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "E",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "R",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "G",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Wheel down",
+        "w": 111.890625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Wheel up",
+        "w": 85.984375,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Q",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "M",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Middle mouse",
+        "w": 118.828125,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Z",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "B",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Tab",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "X",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "1",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "2",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "3",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "4",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "5",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "T",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "F1",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F2",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "F3",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "V",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-1-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nButton prompts\nAuto\nXbox\nPlayStation\nNintendo\nCONTROLLER\nButton prompts\n\nWhich button icons the game shows. Auto follows the controller you are holding.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nA\nJump / exit plane / glider\nB\nCrouch / slide\nX\nInteract\nY\nSwap to last slot\nLB\nPrevious slot\nRB\nNext slot\nNO CONTROLLER CONNECTED · SHOWING XBOX\nController layout\n‹\nStandard\n›\nSwap sticks (southpaw)\nOff\nVibration\nOn\nVibration intensity\n80%\nTrigger rumble\nOn\nTest vibration\nTEST\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 83.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Look",
+        "w": 64.28125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 119.171875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Auto",
+        "w": 43.9375,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Xbox",
+        "w": 45.453125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "PlayStation",
+        "w": 83.359375,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Nintendo",
+        "w": 68.765625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 59.828125,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 59.828125,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Test",
+        "w": 58.03125,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-1-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nHorizontal look speed\n190°/s\nLOOK\nHorizontal look speed\n\nTurn speed at full stick deflection.\n\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nVertical look speed\n125°/s\nResponse curve\nStandard\nLinear\nDynamic\nTurn boost\n+80°/s\nTurn boost ramp-up\n0.30 s\nAim down sights speed\n1.00x\nScope speed\n1.00x\nInvert vertical look\nOff\nAim assist\nOn\nAim assist strength\n65%\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 83.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 64.28125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 119.171875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Standard",
+        "w": 68.953125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Linear",
+        "w": 51.578125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Dynamic",
+        "w": 65.546875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "On",
+        "w": 59.828125,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-1-2",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nLeft stick deadzone\n10%\nDEADZONES\nLeft stick deadzone\n\nIgnore this much stick travel at rest. Raise it if you drift without touching the stick.\n\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nRight stick deadzone\n8%\nOuter threshold\n95%\nDeadzone shape\nRadial\nAxial\nTrigger threshold\n12%\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 83.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 64.28125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 119.171875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Radial",
+        "w": 52.3125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Axial",
+        "w": 45.359375,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-1-3",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nAim down sights\nHold\nToggle\nBEHAVIOR\nAim down sights\n\nHold the aim trigger, or press once to toggle.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nCrouch\nHold\nToggle\nSprint\nHold\nToggle\nAuto\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 83.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 64.28125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 119.171875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Hold",
+        "w": 43.640625,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Toggle",
+        "w": 55.171875,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Auto",
+        "w": 43.9375,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-1-4",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nLAYOUT\nLOOK\nDEADZONES\nBEHAVIOR\nBINDINGS\nTAB\nFire / use item\nRT\n—\nBINDINGS\nFire / use item\n\nSelect a slot, then press a controller button. A button another action uses swaps over; pressing the button already in an alternate slot clears it.\n\nMENU (pause) cancels and cannot be bound. Move and look are the sticks.\n\nLT\nRT\nLB\nRB\nMOVE\nLOOK\nA\nB\nX\nY\nNO CONTROLLER CONNECTED · SHOWING XBOX\nConnect one, then press any button on it: browsers only show a controller after a press.\nAim down sights\nLT\n—\nJump / exit plane / glider\nA\n—\nCrouch / slide\nB\n—\nSprint / dive / hold breath\nLS\n—\nInteract · reload when nothing to take\nX\n—\nReload\nUNBOUND\n—\nNext slot\nRB\n—\nPrevious slot\nLB\n—\nSwap to last slot\nY\n—\nMap\nVIEW\nSHARE\nInventory\nD-PAD ↑\n—\nDeploy glider\nD-PAD ↓\n—\nPing / mark the spot you look at\nD-PAD →\n—\nThrow banana bomb (hold to cook)\nD-PAD ←\n—\nTuk-tuk radio · next station\nD-PAD ↓\n—\nTuk-tuk driver view\nY\n—\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Layout",
+        "w": 83.9375,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Look",
+        "w": 64.28125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Deadzones",
+        "w": 119.171875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Behavior",
+        "w": 104.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Bindings",
+        "w": 100.46875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "RT",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LT",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "A",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "B",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LS",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "X",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Unbound",
+        "w": 83.890625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(255, 77, 94)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "RB",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "LB",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Y",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "VIEW",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "SHARE",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "D-PAD ↑",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ↓",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD →",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ←",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "D-PAD ↓",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Y",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "—",
+        "w": 72.0625,
+        "h": 21.140625,
+        "font": "12.253px",
+        "color": "rgb(127, 163, 188)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-2-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nVOLUME\nMaster volume\n90%\nMIX\nMaster volume\n\nAll game sound. Every other channel is mixed beneath it.\n\nMASTER 90%\nCombat & world\n100%\nInterface & confirmations\n100%\nIsland ambience\n100%\nTuk-tuk radio\n100%\nDynamic range\nFull\nReduced\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Volume",
+        "w": 87.0625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Full",
+        "w": 37.578125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Reduced",
+        "w": 65.078125,
+        "h": 26.421875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-3-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nDISPLAY\nGRAPHICS\nTAB\nFrame rate limit\n‹\nDisplay · 60 Hz\n›\nDISPLAY\nFrame rate limit\n\nCaps how often a frame is drawn. Display matches your monitor's refresh rate (detected). Unlimited draws every refresh your browser allows: pick it on a 240 Hz monitor.\n\nA lower cap saves battery and keeps laptops cool.\n\n▶\nHARDWARE DETAILS\nI\n3D resolution\n100%\nDynamic resolution\nOff\nField of view\n105°\nShow FPS\nOff\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Display",
+        "w": 89.65625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Graphics",
+        "w": 103.78125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-3-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nDISPLAY\nGRAPHICS\nTAB\nQuality preset\n‹\nAuto · High\n›\nGRAPHICS\nQuality preset\n\nAuto picks the best preset for your GPU (detected on your first visit, confirmed by a short benchmark). Low and Medium are tuned for laptops; Epic is everything at full quality for desktop GPUs.\n\nChanging any option below makes it Custom.\n\nANTI-ALIASING\nTAA\nVIEW DISTANCE\nSHADOWS\nAMBIENT OCCLUSION\nOn\nPOST PROCESSING\nFOLIAGE\nEFFECTS\nPRESET: AUTO · HIGH\nAnti-aliasing\n‹\nTAA\n›\nView distance\n‹\nHigh\n›\nShadows\n‹\nHigh\n›\nAmbient occlusion\nOn\nPost processing\n‹\nHigh\n›\nFoliage\n‹\nHigh\n›\nEffects\n‹\nHigh\n›\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Display",
+        "w": 89.65625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Graphics",
+        "w": 103.78125,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "On",
+        "w": 59.828125,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "‹",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "›",
+        "w": 19.21875,
+        "h": 19.21875,
+        "font": "15.8568px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-4-0",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nReduced camera motion\nOff\nCOMFORT\nReduced camera motion\n\nRemoves decorative shake, bob, landing dip and camera roll, and stills menu motion. Aim and gameplay recoil remain accurate.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nHUD size\n100%\nMenu text size\n150%\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 232.71875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Minimap",
+        "w": 92.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "",
+        "w": 172.96875,
+        "h": 15.375,
+        "font": "16px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-567-4-1",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nRotate minimap\nOff\nMINIMAP\nRotate minimap\n\nThe map turns as you look around so the way you face is always up (an N marks north on the rim). Off: north stays up and your arrow turns.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 232.71875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Minimap",
+        "w": 92.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  },
+  {
+    "name": "settings-maxtext-567",
+    "text": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nCOMFORT & READABILITY\nMINIMAP\nTAB\nRotate minimap\nOff\nMINIMAP\nRotate minimap\n\nThe map turns as you look around so the way you face is always up (an N marks north on the rim). Off: north stays up and your arrow turns.\n\nPREVIEW\n100\n100\n1\n2\n3\n4\n5\n\nThe storm is closing in. Get inside the white circle.\n\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "buttons": [
+      {
+        "text": "Back · ESC",
+        "w": 111.3125,
+        "h": 30.578125,
+        "font": "12.253px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Mouse & keyboard",
+        "w": 173.234375,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Controller",
+        "w": 119.046875,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Audio",
+        "w": 71.765625,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Video",
+        "w": 69.953125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(207, 226, 238)",
+        "bg": "rgb(18, 52, 75)"
+      },
+      {
+        "text": "Accessibility",
+        "w": 130.078125,
+        "h": 29.390625,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 210, 26)"
+      },
+      {
+        "text": "Comfort & readability",
+        "w": 232.71875,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(169, 198, 218)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "Minimap",
+        "w": 92.640625,
+        "h": 25.546875,
+        "font": "12.253px",
+        "color": "rgb(4, 16, 26)",
+        "bg": "rgb(255, 248, 231)"
+      },
+      {
+        "text": "Off",
+        "w": 62.34375,
+        "h": 20.1875,
+        "font": "15.136px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      },
+      {
+        "text": "R Restore defaults",
+        "w": 165.453125,
+        "h": 24.5,
+        "font": "11.5322px",
+        "color": "rgb(255, 248, 231)",
+        "bg": "rgba(0, 0, 0, 0)"
+      }
+    ]
+  }
+]
