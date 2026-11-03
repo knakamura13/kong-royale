@@ -72,3 +72,7 @@ Graph project points to the primary checkout, generation 2026-11-03T18:27:32Z, a
 ## Reproduction scripts
 
 Scripts are preserved under `scripts/`. Run with `NODE_PATH` pointing at the checkout node_modules. They use the existing local Vite server on port 5320 and write to the recorded absolute audit output directory. Main-game scripts require hardware Chrome/Metal and can take several minutes to boot. `audit-fixture` and `audit-panels` abort the game bootstrap and render actual constructors with synthetic data. Only `audit-final` produced the final lobby matrix. Earlier scripts are retained to explain evidence provenance.
+
+## Additional live coverage
+
+`additional-states.json` and corresponding screenshots add callsign popover, empty-name validation error, Friends popover, populated firing-range inventory, map and bug-report overlay. No report was submitted. The final `pause-later` capture still shows the bug overlay: the attempted Escape sequence does not establish successful dismissal. These runs establish presentation evidence, not full keyboard conformance. Multiplayer roster/error states and real spectator transitions remain unverified.
