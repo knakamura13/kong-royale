@@ -1,5 +1,5 @@
-// Toon lobby styles (the Play screen). Every size is a design px on the 1920×1080 canvas through T(); colours, outlines,
-// drops, radii and motion are the Toon tokens (ui/toon.ts). The layout is measured at 1920×1080.
+// Toon lobby styles (the Play screen). Decorative sizes use the 1920×1080 canvas through T(); controls have readable
+// size floors and a flowing layout on smaller screens. Colours, outlines, drops, radii and motion use ui/toon.ts tokens.
 // Screen-local classes are `tn-play-*`.
 // Some lobby buttons also carry `.kr-btn` (the controller's first-focus hook in game/index.ts): the rules here restate
 // every property menu-styles.ts's `.kr-btn` sets, at a higher specificity.
@@ -234,4 +234,47 @@ html.kr-pad .kr-lobby .kr-padfocus { outline: var(--kong-focus-width) solid var(
 @keyframes tn-play-swap { from { opacity: 0; transform: translateY(${T(10)}); } }
 .tn-play-popin { animation: tn-pop var(--kong-motion-standard) var(--kong-ease-spring) both; }
 html.kr-calm .tn-play-panel, html.kr-calm .tn-play-popin, html.kr-calm .tn-play-swap { animation: none; }
+
+/* ---------------- sizing prototype: keep controls readable when the decorative canvas shrinks */
+.kr-lobby.tn-play { --kong-fs-support: max(14px, calc(16 * var(--tu))); --kong-lh-support: 1.45; }
+.tn-play-nav .tn-pill, .tn-play-modes .tn-pill {
+  font-size: max(16px, calc(18 * var(--tu))); line-height: 1.4; min-height: 40px; }
+.kr-lobby .tn-play-link, .kr-lobby .tn-play-link--sm {
+  font-size: max(14px, calc(16 * var(--tu))); line-height: 1.4; min-height: 40px; padding: 8px 12px; letter-spacing: .1em; }
+.tn-play-bots .tn-seg { height: auto; min-height: 40px; padding: 4px; }
+.tn-play-bots .tn-seg button { font-size: 14px; line-height: 1.4; min-height: 32px; padding: 6px 12px; }
+.tn-play-botslbl, .tn-play-live, .tn-play-modeline, .tn-play-plabel, .tn-play-cs small { font-size: 14px; line-height: 1.45; }
+.tn-play-hint { font-size: 14px; line-height: 1.5; }
+.tn-play-hint .tn-key, .tn-play-cta .sub { font-size: 14px; }
+.tn-play-input { font-size: 18px; min-height: 44px; }
+.tn-play-panel .tn-btn { font-size: 14px; min-height: 40px; }
+/* Flow layout makes the larger controls reachable on short screens instead of clipping the absolute canvas. */
+@media (max-width: 1600px), (max-height: 800px) {
+  .kr-lobby.tn-play { display: grid; grid-template-columns: auto 1fr; align-content: start; gap: 24px 32px;
+    padding: 28px; box-sizing: border-box; overflow-y: auto; --tu: .8px; }
+  .tn-play-shade { position: fixed; }
+  .tn-play-brand { position: relative; left: auto; top: auto; width: 240px; align-self: start; }
+  .tn-play-nav { position: relative; left: auto; top: auto; justify-self: end; align-self: start; flex-wrap: wrap; gap: 8px; }
+  .tn-play-id { position: relative; right: auto; top: auto; grid-column: 1 / -1; justify-self: end; flex-wrap: wrap; gap: 16px; }
+  .tn-play-main { position: relative; left: auto; top: auto; grid-column: 1 / -1; width: min(560px, 100%); }
+  .tn-play-sec-play .tn-play-display { font-size: 80px; line-height: .95; }
+  .tn-play-modeline { white-space: normal; letter-spacing: .14em; }
+  .tn-play-choices { flex-wrap: wrap; gap: 16px; margin-top: 24px; }
+  .tn-play-links { flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+  .kr-lobby .tn-play-cta { width: min(100%, 440px); min-height: 60px; margin-top: 24px; }
+  .tn-play-foot { position: relative; left: auto; bottom: auto; grid-column: 1 / -1; flex-wrap: wrap;
+    gap: 20px; margin-top: 20px; padding-bottom: 8px; }
+  .tn-play-tiles, .tn-play-keys { width: 100%; }
+  .tn-play-panel { width: min(420px, calc(100vw - 56px)); }
+}
+@media (max-width: 800px) {
+  .kr-lobby.tn-play { grid-template-columns: 1fr; padding: 20px; gap: 24px; }
+  .tn-play-brand { width: 200px; }
+  .tn-play-nav { justify-self: start; grid-column: 1; }
+  .tn-play-id { justify-self: start; grid-column: 1; }
+  .tn-play-cs { text-align: left; }
+  .tn-play-sec-play .tn-play-display { font-size: 64px; white-space: normal; }
+  .tn-play-panel { left: 0; right: auto; width: min(420px, calc(100vw - 40px)); }
+  .tn-play-live { white-space: normal; flex-wrap: wrap; letter-spacing: .1em; }
+}
 `;
