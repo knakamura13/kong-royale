@@ -1,0 +1,28 @@
+{
+  "method": "CSS foreground versus same-coordinate captured underlying scene at exact foreground pixels; excludes antialias pixels and does not assess the shadow as a potential halo",
+  "difference_bbox": [
+    350,
+    198,
+    928,
+    216
+  ],
+  "foreground": [
+    255,
+    248,
+    231
+  ],
+  "exact_foreground_pixels": 642,
+  "minimum": {
+    "ratio": 1.000146844722164,
+    "x": 738,
+    "y": 205,
+    "background": [
+      248,
+      249,
+      243
+    ]
+  },
+  "median_ratio": 1.7003718091196165,
+  "maximum_ratio": 1.918514005556712,
+  "pixels_below_4_5": 642
+}

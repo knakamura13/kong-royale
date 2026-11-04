@@ -1,0 +1,1628 @@
+[
+  {
+    "name": "warmup",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "WARM-UP\nSolo\n0:02\nPLANE DEPARTS\nWARM-UP · NOTHING COUNTS YET\n100\n0\n0\n40\n/ 120\nPEELER\n40\n1\n2\n2\n3\n4\n5\n50\n0 MS · 39 FPS\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 0,
+      "st": 0,
+      "x": -9.9,
+      "y": 2.1,
+      "z": 949.4,
+      "hp": 100,
+      "shield": 0,
+      "alive": 50,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 60,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:1:1:1:40",
+        "2:0:0:2:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 13,
+      "chests": 16,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "plane",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:05\nRAMP OPENS\n100\n0\n0\n50\n0\n0\nDMG\n0 MS · 39 FPS\nBANANA CO. FLIGHT DEPARTING\nTHE RAMP OPENS IN A MOMENT · MIDDLE MOUSE PINGS WHERE YOU'LL DROP\nSPACE\nJUMP\nM\nMAP · MARK YOUR DROP\nMIDDLE MOUSE\nPING\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 1,
+      "st": 4,
+      "x": 1013,
+      "y": 720,
+      "z": 1120.1,
+      "hp": 100,
+      "shield": 0,
+      "alive": 50,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0.1,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 59.98116666532059,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:0:0:1:12",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 13,
+      "chests": 16,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "play",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:17\nSTORM CLOSES\n100\n0\n0\n49\n0\n0\nDMG\nPeel\nKiki\n0 MS · 60 FPS\n666M\nFREEFALL\n33 M/S\nSPACE\nPULL CHUTE\nMOUSE\nSTEER\nW\nFLY FORWARD\nHOLD LEFT SHIFT\nDIVE\nMIDDLE MOUSE\nPING\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 1,
+      "x": -348.2,
+      "y": 665.6,
+      "z": -966.3,
+      "hp": 100,
+      "shield": 0,
+      "alive": 49,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 43,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 17.009833078543345,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:0:0:1:12",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 0,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "eliminated",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:16\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n0\n0\n48\n0\n0\nDMG\nKONG\nPeel\nKiki\n0 MS · 59 FPS\nYOU PLACED\n#50\nOF 50 PLAYERS\nELIMINATED BY THE STORM · Storm\n0\nKILLS\n0\nDAMAGE\n0:43\nTIME IN MATCH\n0\nHEADSHOTS\nSolo · Practice · Easy\nFirst personal bests for this mode\n0 kills · 0 damage · 0:43 in match · #50 of 50\nNext target: #49 of 50 players. Placement records compare equal lobby sizes.\nPersonal bests · saved on this device\nPLAY AGAIN\nSPECTATE\nBACK TO LOBBY\nYOUR PRACTICE MODE AND DIFFICULTY ARE KEPT FOR PLAY AGAIN",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": 656.4,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 48,
+      "squads": 49,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 43.4,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 16.616331552664434,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 3,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<button class=\"kr-btn\">PLAY AGAIN</button>",
+    "buttons": [
+      {
+        "text": "PLAY AGAIN",
+        "aria": null,
+        "x": 504.4230651855469,
+        "y": 484.5424499511719,
+        "w": 271.1538391113281,
+        "h": 43.578277587890625,
+        "font": "22px"
+      },
+      {
+        "text": "SPECTATE",
+        "aria": null,
+        "x": 504.4230651855469,
+        "y": 533.93115234375,
+        "w": 271.1538391113281,
+        "h": 43.57830810546875,
+        "font": "22px"
+      },
+      {
+        "text": "BACK TO LOBBY",
+        "aria": null,
+        "x": 504.4230651855469,
+        "y": 583.3199462890625,
+        "w": 271.1538391113281,
+        "h": 43.5782470703125,
+        "font": "22px"
+      }
+    ]
+  },
+  {
+    "name": "spectating",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:12\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n48\n0\n0\nDMG\nKONG\n0 MS · 45 FPS\n← / A\nSPECTATING\n48 ALIVE\nMANGO\n0\n0\n34\nBUNCHGUN\n→ / D\n1 / 48|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": 601.6,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 48,
+      "squads": 49,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 47.2,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 12.843665140072503,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 31,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "next-player",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:10\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n42\n0\n0\nDMG\nTusk\nIvo\nBam\nVex\nFuzz\nTiki\nNib\nBruiser\nWaffle\nApe-X\nWaffle\nKoko\n0 MS · 60 FPS\n← / A\nSPECTATING\n42 ALIVE\nPEEL\n1\n0\n50\nPEELER\n→ / D\n2 / 42|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": 461.7,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 42,
+      "squads": 43,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 49.7,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 10.315332315365474,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 32,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "player-list",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:09\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n42\n0\n0\nDMG\nTusk\nIvo\nBam\nVex\nFuzz\nTiki\nNib\nBruiser\nWaffle\nApe-X\nWaffle\nKoko\n0 MS · 60 FPS\n← / A\nSPECTATING\n42 ALIVE\nPEEL\n1\n0\n50\nPEELER\n→ / D\n2 / 42|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n42 ALIVE\nTAB / ESC · CLOSE\nWAFFLE\n2\nWATCH\nPEEL\n1\nWATCHING\nTUSK\n1\nWATCH\nFUZZ\n1\nWATCH\nBAM\n1\nWATCH\nNIB\n1\nWATCH\nMANGO\n0\nWATCH\nRUMBLE\n0\nWATCH\nBANJO\n0\nWATCH\nDIZZY\n0\nWATCH\nCHUNK\n0\nWATCH\nRIPE\n0\nWATCH\nZUZU\n0\nWATCH\nNANA\n0\nWATCH\nSPLIT\n0\nWATCH\nHUSK\n0\nWATCH\nGRIT\n0\nWATCH\nLOCO\n0\nWATCH\nPIP\n0\nWATCH\nREX\n0\nWATCH\nSABLE\n0\nWATCH\nTANGO\n0\nWATCH\nUMBO\n0\nWATCH\nYUCA\n0\nWATCH\nZED\n0\nWATCH\nCOCOA\n0\nWATCH\nDUNE\n0\nWATCH\nEMBER\n0\nWATCH\nFIG\n0\nWATCH\nGOGO\n0\nWATCH\nHOPPER\n0\nWATCH\nJUMBO\n0\nWATCH\nKONG-JR\n0\nWATCH\nLUSH\n0\nWATCH\nMOSS\n0\nWATCH\nOZZY\n0\nWATCH\nPULP\n0\nWATCH\nQUILL\n0\nWATCH\nRANGO\n0\nWATCH\nSPROUT\n0\nWATCH\nUBU\n0\nWATCH\nVOLT\n0\nWATCH\nKIKI\n0\nOUT\nKOKO\n0\nOUT\nBRUISER\n0\nOUT\nVEX\n0\nOUT\nAPE-X\n0\nOUT\nIVO\n0\nOUT\nTIKI\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": 406.7,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 42,
+      "squads": 43,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 50.7,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 9.315432315508524,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 32,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "WAFFLE\n2\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 126.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "TUSK\n1\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 126.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "FUZZ\n1\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 154.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "BAM\n1\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 154.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "NIB\n1\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 154.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "MANGO\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 182.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "RUMBLE\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 182.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "BANJO\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 182.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "DIZZY\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 210.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "CHUNK\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 210.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "RIPE\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 210.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "ZUZU\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 238.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "NANA\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 238.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "SPLIT\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 238.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "HUSK\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 266.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "GRIT\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 266.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "LOCO\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 266.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "PIP\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 294.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "REX\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 294.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "SABLE\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 294.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "TANGO\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 322.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "UMBO\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 322.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "YUCA\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 322.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "ZED\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 350.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "COCOA\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 350.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "DUNE\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 350.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "EMBER\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 378.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "FIG\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 378.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "GOGO\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 378.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "HOPPER\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 406.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "JUMBO\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 406.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "KONG-JR\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 406.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "LUSH\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 434.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "MOSS\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 434.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "OZZY\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 434.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "PULP\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 462.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "QUILL\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 462.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "RANGO\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 462.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "SPROUT\n0\nWATCH",
+        "aria": null,
+        "x": 278,
+        "y": 490.79998779296875,
+        "w": 236.65625,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "UBU\n0\nWATCH",
+        "aria": null,
+        "x": 521.65625,
+        "y": 490.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      },
+      {
+        "text": "VOLT\n0\nWATCH",
+        "aria": null,
+        "x": 765.328125,
+        "y": 490.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "player-list-narrow",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "SOLO\n0:07\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n40\n0\n0\nDMG\nVolt\nEmber\nZed\nJumbo\nTusk\nIvo\nBam\nVex\nFuzz\nTiki\nNib\nBruiser\n0 MS · 59 FPS\n← / A\nSPECTATING\n40 ALIVE\nPEEL\n1\n0\n50\nPEELER\n→ / D\n2 / 40|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n40 ALIVE\nTAB / ESC · CLOSE\nWAFFLE\n2\nWATCH\nPEEL\n1\nWATCHING\nTUSK\n1\nWATCH\nFUZZ\n1\nWATCH\nZED\n1\nWATCH\nBAM\n1\nWATCH\nNIB\n1\nWATCH\nVOLT\n1\nWATCH\nMANGO\n0\nWATCH\nRUMBLE\n0\nWATCH\nBANJO\n0\nWATCH\nDIZZY\n0\nWATCH\nCHUNK\n0\nWATCH\nRIPE\n0\nWATCH\nZUZU\n0\nWATCH\nNANA\n0\nWATCH\nSPLIT\n0\nWATCH\nHUSK\n0\nWATCH\nGRIT\n0\nWATCH\nLOCO\n0\nWATCH\nPIP\n0\nWATCH\nREX\n0\nWATCH\nSABLE\n0\nWATCH\nTANGO\n0\nWATCH\nUMBO\n0\nWATCH\nYUCA\n0\nWATCH\nCOCOA\n0\nWATCH\nDUNE\n0\nWATCH\nFIG\n0\nWATCH\nGOGO\n0\nWATCH\nHOPPER\n0\nWATCH\nKONG-JR\n0\nWATCH\nLUSH\n0\nWATCH\nMOSS\n0\nWATCH\nOZZY\n0\nWATCH\nPULP\n0\nWATCH\nQUILL\n0\nWATCH\nRANGO\n0\nWATCH\nSPROUT\n0\nWATCH\nUBU\n0\nWATCH\nKIKI\n0\nOUT\nKOKO\n0\nOUT\nBRUISER\n0\nOUT\nVEX\n0\nOUT\nAPE-X\n0\nOUT\nEMBER\n0\nOUT\nIVO\n0\nOUT\nJUMBO\n0\nOUT\nTIKI\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": 312.2,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 40,
+      "squads": 41,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 52.4,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 7.582365394433339,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 32,
+      "chests": 115,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 111.90625,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 420.328125,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "WAFFLE\n2\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 298.99658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "TUSK\n1\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 298.99658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "FUZZ\n1\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "ZED\n1\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "BAM\n1\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "NIB\n1\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "VOLT\n1\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "MANGO\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RUMBLE\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "BANJO\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "DIZZY\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "CHUNK\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RIPE\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "ZUZU\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "NANA\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "SPLIT\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "HUSK\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "GRIT\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "LOCO\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "PIP\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "REX\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "SABLE\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "TANGO\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "UMBO\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "YUCA\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "COCOA\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "DUNE\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 489.40283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "FIG\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 489.40283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "GOGO\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 489.40283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "HOPPER\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 510.55908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "KONG-JR\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 510.55908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "LUSH\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 510.55908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "MOSS\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 531.71533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "OZZY\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 531.71533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "PULP\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 531.71533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "QUILL\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 552.87158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RANGO\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 552.87158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "SPROUT\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 552.87158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "UBU\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 574.02783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "cycled-to-list-player",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "SOLO\n1:20\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n27\n0\n0\nDMG\nPulp\nNib\nDizzy\nMoss\nYuca\nPip\n0 MS · 14 FPS\n← / A\nSPECTATING\n27 ALIVE\nWAFFLE\n2\n0\n89\nBUNCHGUN\n→ / D\n13 / 27|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n27 ALIVE\nTAB / ESC · CLOSE\nWAFFLE\n2\nWATCHING\nYUCA\n2\nWATCH\nZED\n2\nWATCH\nBAM\n2\nWATCH\nOZZY\n2\nWATCH\nPULP\n2\nWATCH\nRUMBLE\n1\nWATCH\nTUSK\n1\nWATCH\nDIZZY\n1\nWATCH\nUMBO\n1\nWATCH\nGOGO\n1\nWATCH\nVOLT\n1\nWATCH\nKIKI\n0\nWATCH\nMANGO\n0\nWATCH\nBANJO\n0\nWATCH\nCHUNK\n0\nWATCH\nRIPE\n0\nWATCH\nZUZU\n0\nWATCH\nSPLIT\n0\nWATCH\nTANGO\n0\nWATCH\nCOCOA\n0\nWATCH\nFIG\n0\nWATCH\nLUSH\n0\nWATCH\nQUILL\n0\nWATCH\nRANGO\n0\nWATCH\nSPROUT\n0\nWATCH\nUBU\n0\nWATCH\nPEEL\n1\nOUT\nFUZZ\n1\nOUT\nREX\n1\nOUT\nMOSS\n1\nOUT\nNIB\n1\nOUT\nKOKO\n0\nOUT\nBRUISER\n0\nOUT\nNANA\n0\nOUT\nHUSK\n0\nOUT\nGRIT\n0\nOUT\nLOCO\n0\nOUT\nPIP\n0\nOUT\nSABLE\n0\nOUT\nVEX\n0\nOUT\nAPE-X\n0\nOUT\nDUNE\n0\nOUT\nEMBER\n0\nOUT\nHOPPER\n0\nOUT\nIVO\n0\nOUT\nJUMBO\n0\nOUT\nKONG-JR\n0\nOUT\nTIKI\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": -0.3,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 27,
+      "squads": 27,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 83.8,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -310.49,
+        "tz": -150.99,
+        "tr": 692,
+        "phase": 1,
+        "shrinking": false,
+        "timer": 80.2065671749115,
+        "dps": 1,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 20,
+      "chests": 153,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 111.90625,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 420.328125,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "YUCA\n2\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 298.99658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "ZED\n2\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 298.99658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "BAM\n2\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "OZZY\n2\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "PULP\n2\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 320.15283203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RUMBLE\n1\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "TUSK\n1\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "DIZZY\n1\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 341.30908203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "UMBO\n1\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "GOGO\n1\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "VOLT\n1\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 362.46533203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "KIKI\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "MANGO\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "BANJO\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 383.62158203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "CHUNK\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RIPE\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "ZUZU\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 404.77783203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "SPLIT\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "TANGO\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "COCOA\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 425.93408203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "FIG\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "LUSH\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "QUILL\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 447.09033203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "RANGO\n0\nWATCH",
+        "aria": null,
+        "x": 10.0625,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "SPROUT\n0\nWATCH",
+        "aria": null,
+        "x": 194.109375,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      },
+      {
+        "text": "UBU\n0\nWATCH",
+        "aria": null,
+        "x": 378.15625,
+        "y": 468.24658203125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "list-closed",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "SOLO\n1:18\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\n0\n26\n0\n0\nDMG\nSplit\nZed\nPulp\nNib\n0 MS · 43 FPS\n← / A\nSPECTATING\n26 ALIVE\nWAFFLE\n2\n0\n89\nSPLITTER\n→ / D\n13 / 26|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": -348.3,
+      "y": -0.3,
+      "z": -966.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 26,
+      "squads": 26,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 85.2,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -310.49,
+        "tz": -150.99,
+        "tr": 692,
+        "phase": 1,
+        "shrinking": false,
+        "timer": 78.83906514040629,
+        "dps": 1,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 55,
+      "chests": 153,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      }
+    ]
+  }
+]
