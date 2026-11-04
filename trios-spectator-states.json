@@ -1,0 +1,548 @@
+[
+  {
+    "name": "warmup",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "WARM-UP\nTrios\n0:09\nPLANE DEPARTS\nKiki\nMango\nWARM-UP · NOTHING COUNTS YET\n100\n0\n0\n5\n/ 30\nSPLITTER\n5\n1\n2\n2\n3\n4\n5\n16\n48\n0 MS · 27 FPS\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 0,
+      "st": 0,
+      "x": -18.2,
+      "y": 1.6,
+      "z": 946.6,
+      "hp": 100,
+      "shield": 0,
+      "alive": 48,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 60,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:3:1:1:5",
+        "2:0:0:2:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 13,
+      "chests": 16,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "plane",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:05\nRAMP OPENS\nKiki\nMango\n100\n0\n0\n16\n48\n0\n0\nDMG\n0 MS · 49 FPS\nBANANA CO. FLIGHT DEPARTING\nTHE RAMP OPENS IN A MOMENT · MIDDLE MOUSE PINGS WHERE YOU'LL DROP\nSPACE\nJUMP\nM\nMAP · MARK YOUR DROP\nMIDDLE MOUSE\nPING\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 1,
+      "st": 4,
+      "x": -1505.9,
+      "y": 720,
+      "z": 234.2,
+      "hp": 100,
+      "shield": 0,
+      "alive": 48,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0.1,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 59.87616666593154,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:0:0:1:12",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 13,
+      "chests": 16,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "play",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:17\nSTORM CLOSES\nKiki\nMango\n100\n0\n0\n16\n47\n0\n0\nDMG\nMoss\nTango\n0 MS · 60 FPS\nKiki\n708 M\nIN THE AIR\nMango\n851 M\nIN THE AIR\n645M\nFREEFALL\n35 M/S\nSPACE\nPULL CHUTE\nMOUSE\nSTEER\nW\nFLY FORWARD\nHOLD LEFT SHIFT\nDIVE\nMIDDLE MOUSE\nPING\nCLICK TO AIM WITH THE MOUSE",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 1,
+      "x": 984.3,
+      "y": 645.3,
+      "z": 363.4,
+      "hp": 100,
+      "shield": 0,
+      "alive": 47,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 43,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 17.012299745400746,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:0:0:1:12",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 0,
+      "chests": 61,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": []
+  },
+  {
+    "name": "spectating",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:13\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\nKiki\nMango\n0\n16\n45\n0\n0\nDMG\nOzzy\nPeel\nKONG\nMoss\nTango\n0 MS · 32 FPS\nELIMINATED\nBY THE STORM\nKiki\n675 M\nIN THE AIR\nMango\n839 M\nIN THE AIR\n← / A\nSPECTATING\n45 ALIVE · 16 SQUADS\nKIKI\nSQUADMATE\n0\n0\n100\nNUB\n→ / D\n1 / 2 · SQUAD ONLY|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": 984.3,
+      "y": 566.4,
+      "z": 363.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 45,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 46.8,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 13.171634350299833,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 198,
+      "chests": 76,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "player-list",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:11\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\nKiki\nMango\n0\n16\n42\n0\n0\nDMG\nDizzy\nJumbo\nNib\nSable\nRumble\nQuill\nOzzy\nPeel\nKONG\n0 MS · 17 FPS\nKiki\n671 M\nIN THE AIR\nMango\n799 M\nIN THE AIR\n← / A\nSPECTATING\n42 ALIVE · 16 SQUADS\nKIKI\nSQUADMATE\n0\n0\n100\nNUB\n→ / D\n1 / 2 · SQUAD ONLY|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n42 ALIVE · 16 SQUADS\nTAB / ESC · CLOSE\nYOUR SQUAD IS STILL IN THE FIGHT — YOU CAN WATCH YOUR SQUADMATES UNTIL THEY'RE OUT\nKIKI\n0\nWATCHING\nMANGO\n0\nSQUAD\nRUMBLE\n1\nDIZZY\n1\nMOSS\n1\nNIB\n1\nOZZY\n1\nTUSK\n0\nKOKO\n0\nBANJO\n0\nCHUNK\n0\nRIPE\n0\nZUZU\n0\nBRUISER\n0\nNANA\n0\nSPLIT\n0\nHUSK\n0\nFUZZ\n0\nGRIT\n0\nLOCO\n0\nPIP\n0\nREX\n0\nUMBO\n0\nVEX\n0\nWAFFLE\n0\nYUCA\n0\nZED\n0\nAPE-X\n0\nBAM\n0\nCOCOA\n0\nDUNE\n0\nEMBER\n0\nFIG\n0\nGOGO\n0\nHOPPER\n0\nIVO\n0\nKONG-JR\n0\nLUSH\n0\nPULP\n0\nRANGO\n0\nSPROUT\n0\nTIKI\n0\nPEEL\n0\nOUT\nSABLE\n0\nOUT\nTANGO\n0\nOUT\nJUMBO\n0\nOUT\nQUILL\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": 984.3,
+      "y": 494,
+      "z": 363.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 42,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 48.5,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 11.445367429176962,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 195,
+      "chests": 76,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1280\" height=\"720\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 413,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 821,
+        "y": 597.65625,
+        "w": 46,
+        "h": 81.34375,
+        "font": "16px"
+      },
+      {
+        "text": "MANGO\n0\nSQUAD",
+        "aria": null,
+        "x": 521.65625,
+        "y": 152.79998779296875,
+        "w": 236.671875,
+        "h": 25,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "player-list-narrow",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:10\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\nKiki\nMango\n0\n16\n41\n0\n0\nDMG\nKoko\nKong-Jr\nDizzy\nJumbo\nNib\nSable\nRumble\nQuill\nOzzy\nPeel\nKONG\n0 MS · 37 FPS\nKiki\n665 M\nIN THE AIR\nMango\n764 M\nIN THE AIR\n← / A\nSPECTATING\n41 ALIVE · 16 SQUADS\nKIKI\nSQUADMATE\n0\n0\n100\nNUB\n→ / D\n1 / 2 · SQUAD ONLY|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n41 ALIVE · 16 SQUADS\nTAB / ESC · CLOSE\nYOUR SQUAD IS STILL IN THE FIGHT — YOU CAN WATCH YOUR SQUADMATES UNTIL THEY'RE OUT\nKIKI\n0\nWATCHING\nMANGO\n0\nSQUAD\nRUMBLE\n1\nKOKO\n1\nDIZZY\n1\nMOSS\n1\nNIB\n1\nOZZY\n1\nTUSK\n0\nBANJO\n0\nCHUNK\n0\nRIPE\n0\nZUZU\n0\nBRUISER\n0\nNANA\n0\nSPLIT\n0\nHUSK\n0\nFUZZ\n0\nGRIT\n0\nLOCO\n0\nPIP\n0\nREX\n0\nUMBO\n0\nVEX\n0\nWAFFLE\n0\nYUCA\n0\nZED\n0\nAPE-X\n0\nBAM\n0\nCOCOA\n0\nDUNE\n0\nEMBER\n0\nFIG\n0\nGOGO\n0\nHOPPER\n0\nIVO\n0\nLUSH\n0\nPULP\n0\nRANGO\n0\nSPROUT\n0\nTIKI\n0\nPEEL\n0\nOUT\nSABLE\n0\nOUT\nTANGO\n0\nOUT\nJUMBO\n0\nOUT\nKONG-JR\n0\nOUT\nQUILL\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": 984.3,
+      "y": 425.3,
+      "z": 363.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 41,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 49.9,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 10.07429872790972,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 195,
+      "chests": 76,
+      "rejected": 0
+    },
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"567\" height=\"948\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\" style=\"opacity: 0;\"></div><div class=\"kr-vig shield\" style=\"opacity: 0;\"></div><div class=\"kr-",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 111.90625,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 420.328125,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "MANGO\n0\nSQUAD",
+        "aria": null,
+        "x": 194.109375,
+        "y": 318.79345703125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "next-player",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:08\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\nKiki\nMango\n0\n16\n41\n0\n0\nDMG\nKoko\nKong-Jr\nDizzy\nJumbo\nNib\nSable\nRumble\nQuill\n0 MS · 20 FPS\nKiki\n664 M\nIN THE AIR\nMango\n718 M\n← / A\nSPECTATING\n41 ALIVE · 16 SQUADS\nMANGO\nSQUADMATE\n0\n0\n100\nNUB\n→ / D\n2 / 2 · SQUAD ONLY|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM\nPLAYERS\n41 ALIVE · 16 SQUADS\nTAB / ESC · CLOSE\nYOUR SQUAD IS STILL IN THE FIGHT — YOU CAN WATCH YOUR SQUADMATES UNTIL THEY'RE OUT\nKIKI\n0\nSQUAD\nMANGO\n0\nWATCHING\nRUMBLE\n1\nKOKO\n1\nDIZZY\n1\nMOSS\n1\nNIB\n1\nOZZY\n1\nTUSK\n0\nBANJO\n0\nCHUNK\n0\nRIPE\n0\nZUZU\n0\nBRUISER\n0\nNANA\n0\nSPLIT\n0\nHUSK\n0\nFUZZ\n0\nGRIT\n0\nLOCO\n0\nPIP\n0\nREX\n0\nUMBO\n0\nVEX\n0\nWAFFLE\n0\nYUCA\n0\nZED\n0\nAPE-X\n0\nBAM\n0\nCOCOA\n0\nDUNE\n0\nEMBER\n0\nFIG\n0\nGOGO\n0\nHOPPER\n0\nIVO\n0\nLUSH\n0\nPULP\n0\nRANGO\n0\nSPROUT\n0\nTIKI\n0\nPEEL\n0\nOUT\nSABLE\n0\nOUT\nTANGO\n0\nOUT\nJUMBO\n0\nOUT\nKONG-JR\n0\nOUT\nQUILL\n0\nOUT",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": 984.3,
+      "y": 324.4,
+      "z": 363.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 41,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 51.8,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 8.148501525402068,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 194,
+      "chests": 76,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 111.90625,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 420.328125,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "KIKI\n0\nSQUAD",
+        "aria": null,
+        "x": 10.0625,
+        "y": 318.79345703125,
+        "w": 178.765625,
+        "h": 18.890625,
+        "font": "16px"
+      }
+    ]
+  },
+  {
+    "name": "list-closed",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "TRIOS\n0:07\nSTORM CLOSES\nRESURGENCE OFF · KILLS ARE FINAL\nKiki\nMango\n0\n16\n41\n0\n0\nDMG\nKoko\nKong-Jr\nDizzy\nJumbo\nNib\nSable\nRumble\nQuill\n0 MS · 45 FPS\nKiki\n664 M\nIN THE AIR\nMango\n705 M\n← / A\nSPECTATING\n41 ALIVE · 16 SQUADS\nMANGO\nSQUADMATE\n0\n0\n100\nNUB\n→ / D\n2 / 2 · SQUAD ONLY|TAB ALL PLAYERS|DRAG LOOK AROUND|WHEEL ZOOM",
+    "errors": [],
+    "game": {
+      "phase": 2,
+      "st": 3,
+      "x": 984.3,
+      "y": 294.2,
+      "z": 363.4,
+      "hp": 0,
+      "shield": 0,
+      "alive": 41,
+      "squads": 16,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 52.4,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 7.615164885997771,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 194,
+      "chests": 76,
+      "rejected": 0
+    },
+    "active": "<button class=\"arrow\" type=\"button\" aria-label=\"Next player\"><svg viewBox=\"0 0 38 40\"><path d=\"M8 4 L30 20 L8 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"7\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg><small>→ / D</small></button>",
+    "buttons": [
+      {
+        "text": "← / A",
+        "aria": "Previous player",
+        "x": 111.90625,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      },
+      {
+        "text": "→ / D",
+        "aria": "Next player",
+        "x": 420.328125,
+        "y": 854.328125,
+        "w": 34.765625,
+        "h": 62.53125,
+        "font": "16px"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "method": "compare CSS foreground to the shadow-only capture at exact-color glyph pixels and their immediate four-neighbor ring",
+  "limit": "ring is constructed from exact foreground pixels, not true glyph outlines; it includes antialias and interior pixels. No halo-width or conformance conclusion.",
+  "full_vs_scene_bbox": [
+    350,
+    198,
+    928,
+    216
+  ],
+  "shadow_vs_scene_bbox": [
+    350,
+    198,
+    928,
+    216
+  ],
+  "core": {
+    "count": 642,
+    "min": 8.783974801972143,
+    "median": 12.858663324537195,
+    "max": 15.69651636674157,
+    "below_4_5": 0
+  },
+  "neighbor_ring": {
+    "count": 1366,
+    "min": 1.8569312464342154,
+    "median": 7.88133384588685,
+    "max": 15.503279134298975,
+    "below_4_5": 206
+  }
+}
