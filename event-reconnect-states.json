@@ -1,0 +1,436 @@
+[
+  {
+    "name": "join",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "SETTINGS\nYOU'RE INVITED\nACCESSIBILITY AUDIT\n\nSOLO · 0 / 12 PLAYERS\n\nYOUR NAME\n1–14 letters or numbers. Everyone in the lobby sees it.\nJOIN GAME\nENTER\nJOIN GAME\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN",
+    "active": "<input class=\"tn-play-input tn-ev-input\" id=\"kr-ev-name\" maxlength=\"14\" spellcheck=\"false\" autocomplete=\"off\" placeholder=\"KONG\" aria-describedby=\"kr-ev-name-help\" enterkeyhint=\"go\" aria-invalid=\"false\">",
+    "errors": [],
+    "primarySockets": 0,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 31.28125,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "INPUT",
+        "role": null,
+        "text": "",
+        "label": null,
+        "x": 59.71875,
+        "y": 339.171875,
+        "w": 364.078125,
+        "h": 48.34375,
+        "font": "21.3333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "JOIN GAME",
+        "label": "Join game",
+        "x": 59.71875,
+        "y": 433.015625,
+        "w": 364.078125,
+        "h": 56.875,
+        "font": "27.0222px",
+        "color": "rgb(4, 16, 26)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 360.484375,
+        "y": 706.859375,
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "join-narrow",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "SETTINGS\nYOU'RE INVITED\nACCESSIBILITY AUDIT\n\nSOLO · 0 / 12 PLAYERS\n\nYOUR NAME\n1–14 letters or numbers. Everyone in the lobby sees it.\nJOIN GAME\nENTER\nJOIN GAME\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN",
+    "active": "<input class=\"tn-play-input tn-ev-input\" id=\"kr-ev-name\" maxlength=\"14\" spellcheck=\"false\" autocomplete=\"off\" placeholder=\"KONG\" aria-describedby=\"kr-ev-name-help\" enterkeyhint=\"go\" aria-invalid=\"false\" style=\"\">",
+    "errors": [],
+    "primarySockets": 0,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 502.671875,
+        "y": 12.984375,
+        "w": 45.140625,
+        "h": 15.875,
+        "font": "5.31563px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "INPUT",
+        "role": null,
+        "text": "",
+        "label": null,
+        "x": 24.796875,
+        "y": 143.8125,
+        "w": 151.1875,
+        "h": 20.078125,
+        "font": "8.85938px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "JOIN GAME",
+        "label": "Join game",
+        "x": 24.796875,
+        "y": 182.78125,
+        "w": 151.1875,
+        "h": 23.625,
+        "font": "11.2219px",
+        "color": "rgb(4, 16, 26)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 150.34375,
+        "y": 922.625,
+        "w": 75.96875,
+        "h": 10.03125,
+        "font": "4.725px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "join-focus-name",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "SETTINGS\nYOU'RE INVITED\nACCESSIBILITY AUDIT\n\nSOLO · 0 / 12 PLAYERS\n\nYOUR NAME\n1–14 letters or numbers. Everyone in the lobby sees it.\nJOIN GAME\nENTER\nJOIN GAME\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN",
+    "active": "<input class=\"tn-play-input tn-ev-input\" id=\"kr-ev-name\" maxlength=\"14\" spellcheck=\"false\" autocomplete=\"off\" placeholder=\"KONG\" aria-describedby=\"kr-ev-name-help\" enterkeyhint=\"go\" aria-invalid=\"false\" style=\"\">",
+    "errors": [],
+    "primarySockets": 0,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 31.28125,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "INPUT",
+        "role": null,
+        "text": "",
+        "label": null,
+        "x": 59.71875,
+        "y": 339.171875,
+        "w": 364.078125,
+        "h": 48.34375,
+        "font": "21.3333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "JOIN GAME",
+        "label": "Join game",
+        "x": 59.71875,
+        "y": 433.015625,
+        "w": 364.078125,
+        "h": 56.875,
+        "font": "27.0222px",
+        "color": "rgb(4, 16, 26)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 360.484375,
+        "y": 706.859375,
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "join-focus-next",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "SETTINGS\nYOU'RE INVITED\nACCESSIBILITY AUDIT\n\nSOLO · 0 / 12 PLAYERS\n\nYOUR NAME\n1–14 letters or numbers. Everyone in the lobby sees it.\nJOIN GAME\nENTER\nJOIN GAME\nESC\nSETTINGS\nFULL SCREEN\n⌥ RETURN",
+    "active": "<button class=\"tn-play-cta kr-btn play tn-ev-cta\" type=\"submit\" aria-label=\"Join game\"><span class=\"lbl\">Join game</span><span class=\"tn-play-spin\"></span><svg class=\"tn-play-ico arrow\" viewBox=\"0 0 30 22\" aria-hidden=\"true\" focusable=\"false\"><path fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"3\" stroke-linejoin=\"round\" d=\"M2.5 8.2h14.2V3l11 8-11 8v-5.2H2.5z\"></path></svg></button>",
+    "errors": [],
+    "primarySockets": 0,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 31.28125,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "INPUT",
+        "role": null,
+        "text": "",
+        "label": null,
+        "x": 59.71875,
+        "y": 339.171875,
+        "w": 364.078125,
+        "h": 48.34375,
+        "font": "21.3333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "JOIN GAME",
+        "label": "Join game",
+        "x": 59.71875,
+        "y": 433.015625,
+        "w": 364.078125,
+        "h": 56.875,
+        "font": "27.0222px",
+        "color": "rgb(4, 16, 26)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 360.484375,
+        "y": 706.859375,
+        "w": 181.734375,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "room",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "Playing as\nAUDIT\nSETTINGS\nEVENT LOBBY\nACCESSIBILITY AUDIT\nSOLO\n1\n/ 12 PLAYERS\nWaiting for the host to start\nLEAVE LOBBY\nPLAYERS\nAUDIT\nYOU\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nESC\nSETTINGS\nEXIT FULL SCREEN\n⌥ RETURN",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root kr-hide\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\"></div><div class=\"kr-vig shield\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div",
+    "errors": [],
+    "primarySockets": 1,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 35.671875,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "DIV",
+        "role": "status",
+        "text": "Waiting for the host to start",
+        "label": null,
+        "x": 59.71875,
+        "y": 299.796875,
+        "w": 398.21875,
+        "h": 19.90625,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "LEAVE LOBBY",
+        "label": null,
+        "x": 59.71875,
+        "y": 643.125,
+        "w": 160.640625,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "EXIT FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 198.421875,
+        "y": 706.859375,
+        "w": 216.453125,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "interrupted",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "Playing as\nAUDIT\nSETTINGS\nEVENT LOBBY\nACCESSIBILITY AUDIT\nSOLO\n1\n/ 12 PLAYERS\nConnection lost. Reconnecting…\nLEAVE LOBBY\nPLAYERS\nAUDIT\nYOU\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nESC\nSETTINGS\nEXIT FULL SCREEN\n⌥ RETURN",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root kr-hide\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\"></div><div class=\"kr-vig shield\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div",
+    "errors": [],
+    "primarySockets": 2,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 35.671875,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "DIV",
+        "role": "status",
+        "text": "Connection lost. Reconnecting…",
+        "label": null,
+        "x": 59.71875,
+        "y": 299.796875,
+        "w": 398.21875,
+        "h": 19.90625,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "LEAVE LOBBY",
+        "label": null,
+        "x": 59.71875,
+        "y": 643.125,
+        "w": 160.640625,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "EXIT FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 198.421875,
+        "y": 706.859375,
+        "w": 216.453125,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  },
+  {
+    "name": "recovered",
+    "viewport": [
+      1366,
+      768
+    ],
+    "dpr": 1,
+    "body": "Playing as\nAUDIT\nSETTINGS\nEVENT LOBBY\nACCESSIBILITY AUDIT\nSOLO\n1\n/ 12 PLAYERS\nWaiting for the host to start\nLEAVE LOBBY\nPLAYERS\nAUDIT\nYOU\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nOPEN\nESC\nSETTINGS\nEXIT FULL SCREEN\n⌥ RETURN",
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root kr-hide\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vig dmg\"></div><div class=\"kr-vig shield\"></div><div class=\"kr-vig heal\"></div><div class=\"tn-hud-edge\"></div><div",
+    "errors": [],
+    "primarySockets": 4,
+    "visible": [
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "SETTINGS",
+        "label": null,
+        "x": 1211.78125,
+        "y": 35.671875,
+        "w": 108,
+        "h": 37.421875,
+        "font": "12.8px",
+        "color": "rgb(207, 226, 238)"
+      },
+      {
+        "tag": "DIV",
+        "role": "status",
+        "text": "Waiting for the host to start",
+        "label": null,
+        "x": 59.71875,
+        "y": 299.796875,
+        "w": 398.21875,
+        "h": 19.90625,
+        "font": "14.9333px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "LEAVE LOBBY",
+        "label": null,
+        "x": 59.71875,
+        "y": 643.125,
+        "w": 160.640625,
+        "h": 36.703125,
+        "font": "11.3778px",
+        "color": "rgb(255, 248, 231)"
+      },
+      {
+        "tag": "BUTTON",
+        "role": null,
+        "text": "EXIT FULL SCREEN\n⌥ RETURN",
+        "label": null,
+        "x": 198.421875,
+        "y": 706.859375,
+        "w": 216.453125,
+        "h": 24.171875,
+        "font": "11.3778px",
+        "color": "rgb(169, 198, 218)"
+      }
+    ]
+  }
+]

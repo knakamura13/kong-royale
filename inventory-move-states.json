@@ -1,0 +1,236 @@
+[
+  {
+    "name": "before",
+    "viewport": [
+      1366,
+      768
+    ],
+    "body": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 34 FPS\nFIRING RANGE\nEVERY ITEM ON THE RACK BEHIND YOU · TARGETS RESPAWN\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nE\nEQUIPPED\nR\nMOVE\nG\nDROP\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS",
+    "errors": [],
+    "game": {
+      "phase": 0,
+      "st": 0,
+      "x": -588.3,
+      "y": 14,
+      "z": -145.8,
+      "hp": 100,
+      "shield": 0,
+      "alive": 50,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 60,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:2:0:1:30",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 46,
+      "chests": 0,
+      "rejected": 0
+    },
+    "cards": [
+      {
+        "slot": "0",
+        "text": "1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED",
+        "classes": "card sel equipped"
+      },
+      {
+        "slot": "1",
+        "text": "2\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "2",
+        "text": "3\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "3",
+        "text": "4\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "4",
+        "text": "5\n+\nEMPTY",
+        "classes": "card empty"
+      }
+    ],
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vi"
+  },
+  {
+    "name": "moving",
+    "viewport": [
+      1366,
+      768
+    ],
+    "body": "FIRING RANGE · INFINITE AMMO\n100\n0\n30\n/ 300\nBUNCHGUN\n30\n1\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 34 FPS\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED\n2\n+\nEMPTY\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nMOVING BUNCHGUN · CHOOSE A SLOT\nESC\nCANCEL\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS",
+    "errors": [],
+    "game": {
+      "phase": 0,
+      "st": 0,
+      "x": -588.3,
+      "y": 14,
+      "z": -145.8,
+      "hp": 100,
+      "shield": 0,
+      "alive": 50,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 60,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "1:2:0:1:30",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 46,
+      "chests": 0,
+      "rejected": 0
+    },
+    "cards": [
+      {
+        "slot": "0",
+        "text": "1\nCOMMON\nBUNCHGUN\nDAMAGE\n24\nEQUIPPED",
+        "classes": "card sel equipped moving"
+      },
+      {
+        "slot": "1",
+        "text": "2\n+\nEMPTY",
+        "classes": "card empty target"
+      },
+      {
+        "slot": "2",
+        "text": "3\n+\nEMPTY",
+        "classes": "card empty target"
+      },
+      {
+        "slot": "3",
+        "text": "4\n+\nEMPTY",
+        "classes": "card empty target"
+      },
+      {
+        "slot": "4",
+        "text": "5\n+\nEMPTY",
+        "classes": "card empty target"
+      }
+    ],
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vi"
+  },
+  {
+    "name": "after",
+    "viewport": [
+      1366,
+      768
+    ],
+    "body": "FIRING RANGE · INFINITE AMMO\n100\n0\n1\n30\n2\n3\n4\n5\n0\n0\nDMG\n0 MS · 17 FPS\nINVENTORY\n1 / 5\nTAB\nESC\nCLOSE\n1\n+\nEMPTY\n2\nCOMMON\nBUNCHGUN\nDAMAGE\n24\n3\n+\nEMPTY\n4\n+\nEMPTY\n5\n+\nEMPTY\nE\nEQUIP\nR\nMOVE\nG\nDROP\nLIGHT\n300 / 300\nHEAVY\n40 / 40\nSHELLS\n48 / 48\nROCKETS\n8 / 8\nRELEASE TO DROP\nPRACTICE\nInfinite ammo\nE\nTAKE FROM THE RACK\nESC\nMENU · ANALYTICS",
+    "errors": [],
+    "game": {
+      "phase": 0,
+      "st": 0,
+      "x": -588.3,
+      "y": 14,
+      "z": -145.8,
+      "hp": 100,
+      "shield": 0,
+      "alive": 50,
+      "squads": 50,
+      "ping": 0,
+      "interp": 2.3,
+      "time": 0,
+      "storm": {
+        "cx": -68.26,
+        "cz": -63,
+        "r": 1088,
+        "tx": -68.26,
+        "tz": -63,
+        "tr": 1088,
+        "phase": 0,
+        "shrinking": false,
+        "timer": 60,
+        "dps": 0,
+        "resurgence": true,
+        "done": false
+      },
+      "slots": [
+        "0:0:0:0:0",
+        "1:2:0:1:30",
+        "0:0:0:0:0",
+        "0:0:0:0:0",
+        "0:0:0:0:0"
+      ],
+      "active": 0,
+      "kills": 0,
+      "actors": 49,
+      "loot": 46,
+      "chests": 0,
+      "rejected": 0
+    },
+    "cards": [
+      {
+        "slot": "0",
+        "text": "1\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "1",
+        "text": "2\nCOMMON\nBUNCHGUN\nDAMAGE\n24",
+        "classes": "card sel"
+      },
+      {
+        "slot": "2",
+        "text": "3\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "3",
+        "text": "4\n+\nEMPTY",
+        "classes": "card empty"
+      },
+      {
+        "slot": "4",
+        "text": "5\n+\nEMPTY",
+        "classes": "card empty"
+      }
+    ],
+    "active": "<body>\n<canvas id=\"c\" tabindex=\"0\" data-engine=\"three.js r186\" width=\"1366\" height=\"768\"></canvas>\n<div id=\"ui\"><div class=\"kr-root\"><div class=\"kr-scope kr-hide\"><canvas></canvas><div class=\"breath\"><span>HOLD LEFT SHIFT · STEADY</span><div class=\"b\"><i></i></div></div><div class=\"zoom\"></div></div><div class=\"kr-vig storm\" style=\"opacity: 0;\"></div><div class=\"kr-vig low\"></div><div class=\"kr-vi"
+  }
+]
