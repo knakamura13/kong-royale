@@ -1,0 +1,394 @@
+[
+  {
+    "name": "initial",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE\nRESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+    "active": "<button type=\"button\" class=\"tn-btn is-focus\" data-dlg=\"cancel\">Cancel</button>",
+    "errors": [],
+    "dialogs": [
+      {
+        "text": "RESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+        "paragraph": {
+          "font": "12.6667px",
+          "lineHeight": "18.6667px",
+          "lines": [
+            {
+              "y": 349.72900390625,
+              "h": 16.530487060546875,
+              "w": 374.0779113769531
+            },
+            {
+              "y": 367.88519287109375,
+              "h": 16.53045654296875,
+              "w": 267.6174011230469
+            }
+          ]
+        },
+        "rect": {
+          "x": 419.58843994140625,
+          "y": 249.0420379638672,
+          "w": 440.8074951171875,
+          "h": 221.90028381347656
+        },
+        "buttons": [
+          {
+            "text": "CANCEL",
+            "active": true,
+            "x": 547.805908203125,
+            "y": 406.7803955078125,
+            "w": 103.71051025390625,
+            "h": 36.29718017578125,
+            "font": "12px",
+            "scroll": [
+              103,
+              33
+            ],
+            "client": [
+              103,
+              33
+            ]
+          },
+          {
+            "text": "RESTORE DEFAULTS",
+            "active": false,
+            "x": 661.8783569335938,
+            "y": 406.7803955078125,
+            "w": 170.65277099609375,
+            "h": 36.29718017578125,
+            "font": "12px",
+            "scroll": [
+              172,
+              33
+            ],
+            "client": [
+              172,
+              33
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "tab",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE\nRESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+    "active": "<button type=\"button\" class=\"tn-btn tn-btn--primary is-focus\" data-dlg=\"ok\">Restore defaults</button>",
+    "errors": [],
+    "dialogs": [
+      {
+        "text": "RESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+        "paragraph": {
+          "font": "12.6667px",
+          "lineHeight": "18.6667px",
+          "lines": [
+            {
+              "y": 349.4375,
+              "h": 17,
+              "w": 384.703125
+            },
+            {
+              "y": 368.109375,
+              "h": 17,
+              "w": 275.21875
+            }
+          ]
+        },
+        "rect": {
+          "x": 413.328125,
+          "y": 245.890625,
+          "w": 453.328125,
+          "h": 228.203125
+        },
+        "buttons": [
+          {
+            "text": "CANCEL",
+            "active": false,
+            "x": 545.1875,
+            "y": 408.109375,
+            "w": 106.65625,
+            "h": 37.328125,
+            "font": "12px",
+            "scroll": [
+              103,
+              33
+            ],
+            "client": [
+              103,
+              33
+            ]
+          },
+          {
+            "text": "RESTORE DEFAULTS",
+            "active": true,
+            "x": 662.5,
+            "y": 408.109375,
+            "w": 175.5,
+            "h": 37.328125,
+            "font": "12px",
+            "scroll": [
+              172,
+              33
+            ],
+            "client": [
+              172,
+              33
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "shift-tab",
+    "viewport": [
+      1280,
+      720
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE\nRESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+    "active": "<button type=\"button\" class=\"tn-btn is-focus\" data-dlg=\"cancel\">Cancel</button>",
+    "errors": [],
+    "dialogs": [
+      {
+        "text": "RESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+        "paragraph": {
+          "font": "12.6667px",
+          "lineHeight": "18.6667px",
+          "lines": [
+            {
+              "y": 349.4375,
+              "h": 17,
+              "w": 384.703125
+            },
+            {
+              "y": 368.109375,
+              "h": 17,
+              "w": 275.21875
+            }
+          ]
+        },
+        "rect": {
+          "x": 413.328125,
+          "y": 245.890625,
+          "w": 453.328125,
+          "h": 228.203125
+        },
+        "buttons": [
+          {
+            "text": "CANCEL",
+            "active": true,
+            "x": 545.1875,
+            "y": 408.109375,
+            "w": 106.65625,
+            "h": 37.328125,
+            "font": "12px",
+            "scroll": [
+              103,
+              33
+            ],
+            "client": [
+              103,
+              33
+            ]
+          },
+          {
+            "text": "RESTORE DEFAULTS",
+            "active": false,
+            "x": 662.5,
+            "y": 408.109375,
+            "w": 175.5,
+            "h": 37.328125,
+            "font": "12px",
+            "scroll": [
+              172,
+              33
+            ],
+            "client": [
+              172,
+              33
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "narrow",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE\nRESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+    "active": "<button type=\"button\" class=\"tn-btn is-focus\" data-dlg=\"cancel\">Cancel</button>",
+    "errors": [],
+    "dialogs": [
+      {
+        "text": "RESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+        "paragraph": {
+          "font": "9.12966px",
+          "lineHeight": "13.4542px",
+          "lines": [
+            {
+              "y": 466.390625,
+              "h": 12,
+              "w": 277.125
+            },
+            {
+              "y": 479.84375,
+              "h": 12,
+              "w": 198.265625
+            }
+          ]
+        },
+        "rect": {
+          "x": 120.125,
+          "y": 392.1875,
+          "w": 326.734375,
+          "h": 163.609375
+        },
+        "buttons": [
+          {
+            "text": "CANCEL",
+            "active": true,
+            "x": 216.5625,
+            "y": 508.671875,
+            "w": 76.875,
+            "h": 26.90625,
+            "font": "8.64915px",
+            "scroll": [
+              75,
+              25
+            ],
+            "client": [
+              75,
+              25
+            ]
+          },
+          {
+            "text": "RESTORE DEFAULTS",
+            "active": false,
+            "x": 301.125,
+            "y": 508.671875,
+            "w": 125.515625,
+            "h": 26.90625,
+            "font": "8.64915px",
+            "scroll": [
+              124,
+              25
+            ],
+            "client": [
+              124,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "narrow-double-text",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE\nRESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+    "active": "<button type=\"button\" class=\"tn-btn is-focus\" data-dlg=\"cancel\" style=\"font-size: 17.2983px !important;\">Cancel</button>",
+    "errors": [],
+    "dialogs": [
+      {
+        "text": "RESTORE MOUSE & KEYBOARD DEFAULTS?\n\nEvery mouse & keyboard setting, including key bindings, goes back to its default. Other categories are not changed.\n\nCANCEL\nRESTORE DEFAULTS",
+        "paragraph": {
+          "font": "18.2593px",
+          "lineHeight": "13.4542px",
+          "lines": [
+            {
+              "y": 496.234375,
+              "h": 24,
+              "w": 272.46875
+            },
+            {
+              "y": 509.6875,
+              "h": 24,
+              "w": 277.28125
+            },
+            {
+              "y": 523.140625,
+              "h": 24,
+              "w": 284.609375
+            },
+            {
+              "y": 536.59375,
+              "h": 24,
+              "w": 107.3125
+            }
+          ]
+        },
+        "rect": {
+          "x": 120.125,
+          "y": 294.84375,
+          "w": 326.734375,
+          "h": 358.296875
+        },
+        "buttons": [
+          {
+            "text": "CANCEL",
+            "active": true,
+            "x": 320.765625,
+            "y": 571.421875,
+            "w": 105.875,
+            "h": 26.90625,
+            "font": "17.2983px",
+            "scroll": [
+              104,
+              25
+            ],
+            "client": [
+              104,
+              25
+            ]
+          },
+          {
+            "text": "RESTORE DEFAULTS",
+            "active": false,
+            "x": 202.484375,
+            "y": 606.015625,
+            "w": 224.15625,
+            "h": 26.90625,
+            "font": "17.2983px",
+            "scroll": [
+              222,
+              25
+            ],
+            "client": [
+              222,
+              25
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "closed",
+    "viewport": [
+      567,
+      948
+    ],
+    "dpr": 1,
+    "body": "BACK ·\nESC\nSettings\nMOUSE & KEYBOARD\nCONTROLLER\nAUDIO\nVIDEO\nACCESSIBILITY\nQ\nE\nMOUSE\nBEHAVIOR\nBINDINGS\nTAB\nMouse sensitivity\n1.00x\nINPUT\nMouse sensitivity\n\nRotation speed when looking around (raw input: no OS acceleration).\n\nHigher values feel faster, lower values offer more precise control. Try it: the firing range uses this value.\n\n1.00X · STANDARD\nAim sensitivity\n1.00x\nScope sensitivity\n1.00x\nInvert vertical look\n‹\nOff\n›\nR\nRESTORE DEFAULTS\n↑↓\nSELECT\n←→\nADJUST\nSAVED ON THIS DEVICE",
+    "active": "<div class=\"tn-set-row tn-tile is-sel\" data-i=\"0\" tabindex=\"-1\" role=\"listitem\" aria-label=\"Mouse sensitivity\" aria-describedby=\"tn-set-help\"><div class=\"lbl tn-label\">Mouse sensitivity<small hidden=\"\"></small></div><div class=\"ctl\"><div class=\"tn-set-sl\"><div class=\"tn-slider\" role=\"slider\" aria-label=\"Mouse sensitivity\" aria-valuemin=\"0.2\" aria-valuemax=\"3\" aria-valuenow=\"1\" aria-valuetext=\"1.00x\"><div class=\"track\"></div><div class=\"fill\" style=\"width: 28.5714%;\"></div><div class=\"thumb\" style=\"left: 28.5714%;\"></div></div><div class=\"tn-set-val\">1.00x</div></div></div><div class=\"tn-set-err\" role=\"alert\" hidden=\"\"></div></div>",
+    "errors": [],
+    "dialogs": []
+  }
+]
